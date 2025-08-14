@@ -20,6 +20,10 @@
     box-sizing: border-box;
 }
 
+html, body {
+    height: 100%;
+}
+
 html {
     /*Scrollbar*/
     scrollbar-width: auto;
@@ -27,11 +31,13 @@ html {
 }
 
 body {
-    /*Cor de fundo*/
     background-color: rgb(0, 8, 24);
-    background-image: linear-gradient(180deg, rgba(0, 32, 64, 1) 0%, rgba(4, 8, 16, 1) 100%); /*Degradê*/
+    background-image: linear-gradient(180deg, rgba(0, 32, 64, 1), rgba(4, 8, 16, 1)); /*Degradê*/
+    background-position: center; /*Posição da imagem*/
     background-repeat: no-repeat; /*Não repetir a imagem*/
+    background-size: cover; /*Cobre todo o espaço disponível*/
     padding: 2em; /*Espaçamento interno de 2em*/
+    min-height: 100vh; /*Altura mínima de 100% da viewport*/
 }
 
 p {
@@ -47,8 +53,8 @@ h2 {
 .banner {
     /*Banner*/
     background-color: rgb(0, 24, 72);
-    background-image: linear-gradient(180deg rgba(4,8,16,0) 0%, rgba(4,8,16,1) 100%),
-                      url("https://picsum.photos/600/300/?blur=1") /*center/cover norepeat*/;
+    background-image: linear-gradient(180deg, rgba(4,8,16,0.5), rgba(4,8,16,1)),
+                      url("https://picsum.photos/600/300/?blur=1");
     background-position: center; /*Posição da imagem*/
     background-repeat: no-repeat; /*Não repetir a imagem*/
     background-size: cover; /*Cobre todo o espaço disponível*/
@@ -96,11 +102,12 @@ img {
     /*Estilo das imagens*/
     max-width: 75%; /*Largura máxima de 75% do elemento pai*/
     border-radius: 1em; /*Bordas arredondadas*/
+    margin-bottom: 2em; /*Margem inferior de 2em*/
 }
 
 table {
     border-collapse: collapse; /*Remove espaçamento entre células*/
-    margin-top: 1em; /*Margem superior de 1em*/
+    margin-bottom: 2em; /*Margem inferior de 2em*/
 }
 
 th, td {
@@ -122,6 +129,7 @@ th {
     border-radius: 0.5em; /*Bordas arredondadas*/
     padding: 0.5em; /*Espaçamento interno de 0.5em*/
     transition: all 0.2s ease; /*Transição suave de 0.2 segundos*/
+    margin-bottom: 2em; /*Margem inferior de 2em*/
 }
 
 .botao:hover {
@@ -131,4 +139,13 @@ th {
 
 .botao:active {
     background-color: rgba(0, 255, 255, 0.75);
+}
+
+footer {
+    /*Estilo do rodapé*/
+    background-color: rgb(40, 80, 120);
+    color: rgb(255, 255, 255); /*Cor do texto*/
+    text-align: center; /*Alinhamento do texto ao centro*/
+    padding: 1em; /*Espaçamento interno de 1em*/
+    margin-top: 2em; /*Margem superior de 2em*/
 }
