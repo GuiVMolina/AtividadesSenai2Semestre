@@ -143,9 +143,65 @@ th {
 
 footer {
     /*Estilo do rodapé*/
+    left: 0; /*Posição do rodapé na parte esquerda da página*/
+    bottom: 0; /*Posição do rodapé na parte inferior da página*/
     background-color: rgb(40, 80, 120);
+    background-image: linear-gradient(180deg, rgba(4,8,16,0), rgba(4,8,16,0.5));
     color: rgb(255, 255, 255); /*Cor do texto*/
     text-align: center; /*Alinhamento do texto ao centro*/
     padding: 1em; /*Espaçamento interno de 1em*/
     margin-top: 2em; /*Margem superior de 2em*/
+    position: fixed; /*Fixa o rodapé na parte inferior da página*/
+    width: 100%; /*Largura de 100% da viewport*/
+}
+
+.tabela-container {
+    display: flex;
+    gap: 2em;
+    align-items: flex-start;
+    margin-bottom: 2em;
+}
+
+.login-form {
+    background: rgb(40, 80, 120);
+    background: linear-gradient(180deg, rgba(4,8,16,0.2), rgba(40,80,120,1));
+    padding: 1.5em 2em;
+    border-radius: 1em;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    min-width: 15em;
+    max-width: 30em;
+}
+
+.login-form h3 {
+    margin-bottom: 1em;
+    color: #fff;
+}
+
+.login-form label {
+    margin-top: 0.5em;
+    margin-bottom: 0.25em;
+    font-size: 1em;
+    color: #cce6ff;
+    text-align: left;
+}
+
+.login-form input {
+    padding: 0.5em;
+    border-radius: 0.5em;
+    border: 1px solid #ccc;
+    margin-bottom: 1em;
+    font-size: 1em;
+    color: #222;
+}
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.login-form .botao {
+    margin-bottom: 0;
 }

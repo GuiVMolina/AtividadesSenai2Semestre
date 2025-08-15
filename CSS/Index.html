@@ -22,23 +22,35 @@
     <img src="https://picsum.photos/600/300" alt="">
 
     <h2>Tabela</h2>
-    <table>                    <!-- * Inicializa a tabela * -->
-        <tr>                   <!-- Cada linha -->
-            <th>Elemento</th>  <!-- Cabeçalho da coluna -->
-            <th>Função</th>    <!-- Cabeçalho da coluna -->
-        </tr>
-        <tr>
-            <td>&lt;p&gt;</td> <!-- Linha normal <p> -->
-            <td>Parágrafo</td>
-        </tr>
-        <tr>
-            <td>&lt;a&gt;</td> <!-- Linha normal <a> -->
-            <td>Link</td>
-        </tr>
-    </table>
+    <div class="tabela-login-container">
+        <table>                    <!-- * Inicializa a tabela * -->
+            <tr>                   <!-- Cada linha -->
+                <th>Elemento</th>  <!-- Cabeçalho da coluna -->
+                <th>Função</th>    <!-- Cabeçalho da coluna -->
+            </tr>
+            <tr>
+                <td>&lt;p&gt;</td> <!-- Linha normal <p> -->
+                <td>Parágrafo</td>
+            </tr>
+            <tr>
+                <td>&lt;a&gt;</td> <!-- Linha normal <a> -->
+                <td>Link</td>
+            </tr>
+        </table>
+        <form class="login-form">
+            <h3>Login</h3>
+            <label for="usuario">Usuário:</label>
+            <input type="text" id="usuario" name="usuario" required>
+            <label for="senha">Senha:</label>
+            <input type="password" id="senha" name="senha" required>
+            <button type="submit" class="botao">Entrar</button>
+        </form>
+    </div>
 
     <h2>Botão com efeito</h2>
     <a href="Info.html"><button class="botao">Clique aqui para mais informações</button></a>
+
+    <div style="height: 5em;"></div> <!-- Espaço extra para não tampar o botão -->
 
     <footer>
         <p>&copy; 2025 Aula de CSS</p>
