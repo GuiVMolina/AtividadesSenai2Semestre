@@ -5,7 +5,7 @@
 
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #000000;
+    color: rgb(255, 255, 255);
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -13,11 +13,11 @@
 
 html {
     scrollbar-width: auto;
-    scrollbar-color: rgb(149, 0, 255) black;
+    scrollbar-color: rgb(149, 0, 255) rgb(8, 0, 32);
 }
 
 body {
-    background-color: black;
+    background-color: rgb(8, 0, 32);
     min-height: 100vh;
 }
 
@@ -65,7 +65,7 @@ div {
 }
 
 .amarelo-espacamento {
-    width: 960px;
+    width: 40em;
 }
 
 .espacamento1 {
@@ -94,4 +94,14 @@ div {
 
 .direita-amarelo {
     justify-content: space-between;
+}
+
+.coluna {
+    flex-direction: column;
+    align-items: flex-start;
+    height: 25em;
+}
+
+.linha {
+    flex-direction: row;
 }
