@@ -1,36 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-
-:root {
-    /* Paleta */
-    --fundo: #132437;
-    --bg-home: #010300;
-    --linha-decorativa: #C7CDD6;
-    --texto-suave: #B3C0CF;
-    --branco: #FFFFFF;
-    --amarelo: #F7C13C;
-    --borda-suave: rgba(255, 255, 255, 0.2);
-    --sombra-passo-clara: rgba(145,145,145,0.2);
-    --sombra-passo-escura: rgba(0,0,0,0.5);
-    --sombra-neo-clara: rgba(255,255,255,0.7);
-    --sombra-neo-escura: rgba(0,0,0,0.8);
-
-    /* Tipografia */
-    --fonte: 'Noto Sans', sans-serif;
-}
-
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    font-family: var(--fonte);
-}
-
-html {
-    scrollbar-width: thin;
-    scrollbar-color: var(--amarelo) var(--fundo);
-    scroll-behavior: smooth;
-}
-
 body {
     color: var(--branco);
     background-color: var(--bg-home);
@@ -329,3 +296,46 @@ h2 {
 }
 
 /* RODAPÉ */
+.rodape {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: var(--fundo);
+    padding: 2% 10%;
+    color: var(--branco);
+    height: 40vh;
+}
+
+.rodape-conteudo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-rodape {
+    width: 200px;
+}
+
+.lista-rodape {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    color: var(--branco);
+}
+
+.linha-divisoria {
+    height: 1px;
+    background-color: var(--borda-suave);
+    margin-top: 20px;
+}
+
+.direitos {
+    text-align: center;
+    color: var(--texto-suave);
+    font-size: 1em;
+    margin-top: 20px;
+}
