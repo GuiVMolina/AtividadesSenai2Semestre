@@ -15,7 +15,6 @@
     --texto-escuro: #0C0101;
     --borda: #313A3C;
     --erro: #D40000;
-
 }
 
 * {
@@ -165,4 +164,52 @@ input {
     text-align: center;
     margin-top: 20px;
     display: none;
+}
+
+.logo-resp {
+    display: none;
+    width: 15%;
+    margin: 25px 0;
+}
+
+/* Responsividade - Media Query */
+@media (max-width: 900px) {
+    .container-login {
+        grid-template-columns: 1fr;
+        height: auto;
+    }
+
+    .painel-esquerdo {
+        margin: 0;
+        border-radius: 0 0 20px 20px;
+    }
+
+    .descricao {
+        font-size: 1.1em;
+        max-width: 55%;
+        margin-bottom: 0;
+    }
+
+    .logo {
+        display: none;
+    }
+
+    .logo-resp {
+        display: inline;
+    }
+
+    .painel-direito {
+        padding: 20px;
+    }
+
+    .form-login {
+        width: 75%;
+    }
+}
+
+@media (max-width: 600px) {
+    .descricao {
+        max-width: 75%;
+        font-size: 1em;
+    }
 }
