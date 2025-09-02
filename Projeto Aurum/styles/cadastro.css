@@ -95,9 +95,17 @@ input {
 }
 
 @media (max-width: 900px) {
+    header {
+        gap: 100px;
+    }
+
     .cadastro {
         flex-direction: column;
         gap: 0;
         margin: 25px 0;
+    }
+
+    .vazio {
+        display: none;
     }
 }
