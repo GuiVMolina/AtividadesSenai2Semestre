@@ -1,0 +1,119 @@
+/* ================================
+   Base CSS Styles
+   ================================ */
+
+/* 🔹 Variáveis Globais */
+:root {
+    --cor-tipografia: #000000;
+    --cor-fundo: #ffffff;
+
+    /* Paleta */
+    --cor-primaria: #0077ff;
+    --cor-secundaria: #ff6600;
+    --cor-neutra: #f5f5f5;
+
+    /* Tipografia */
+    --font-principal: Verdana, Geneva, Tahoma, sans-serif;
+    --font-titulo: 'Segoe UI', sans-serif;
+
+    /* Espaçamentos */
+    --espaco-pequeno: 0.5rem;
+    --espaco-medio: 1rem;
+    --espaco-grande: 2rem;
+
+    /* Borda e Radius */
+    --radius: 0.5rem;
+}
+
+/* 🔹 Reset */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-principal); 
+}
+
+/* 🔹 Estilos Globais */
+html {
+    scrollbar-width: auto;
+    scrollbar-color: var(--cor-fundo) var(--cor-tipografia);
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    color: var(--cor-tipografia);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100vh;
+}
+
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+}
+
+input, button, textarea, select {
+    font: inherit;
+}
+
+/* 🔹 Links */
+a {
+    color: var(--cor-primaria);
+    text-decoration: none;
+}
+a:hover,
+a:focus {
+    text-decoration: underline;
+}
+
+/* 🔹 Botões */
+button {
+    cursor: pointer;
+    border: none;
+    border-radius: var(--radius);
+    padding: var(--espaco-pequeno) var(--espaco-medio);
+    background: var(--cor-primaria);
+    color: #fff;
+    transition: background 0.2s;
+}
+button:hover {
+    background: #005fcc;
+}
+
+/* 🔹 Acessibilidade */
+:focus {
+    outline: 2px solid var(--cor-primaria);
+    outline-offset: 2px;
+}
+
+
+body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.exercicio {
+  background: #fff;
+  margin: 15px 0;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.titulo {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.resultado {
+  color: darkblue;
+  font-family: monospace;
+}
