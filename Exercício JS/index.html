@@ -1,62 +1,284 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <script defer src="script.js"></script> -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript - Exercícios</title>
+    <link rel="stylesheet" href="style.css" />
     <script defer src="Exercícios.js"></script>
-    <style src="style.css"></style>
-    <title>JavaScript</title>
-</head>
-<body>
+  </head>
+  <body>
     <h1>📘 Meus Exercícios em JavaScript</h1>
+    <div class="grid">
+      <!-- Exercício 1 -->
+      <div class="exercicio">
+        <h2>Verificar maioridade</h2>
+        <p>Digite sua idade:</p>
+        <input type="number" id="valorEx1" placeholder="Ex: 18" />
+        <button class="if-else" onclick="ex1()">Enviar</button>
+        <div id="saidaEx1" class="resultado"></div>
+      </div>
 
-    <!-- ex1 -->
-    <h2>Verificar maioridade</h2>
-    <p>- Peça ao usuário uma idade</p>
-    <p>- Use um `if-else` para verificar se ele é maior ou menor de idade</p>
-    <input type="number" id="valorEx1" placeholder="Digite sua idade">
-    <button onclick="ex1()">Enviar</button>
-    <div id="saidaEx1"></div>
+      <!-- Exercício 2 -->
+      <div class="exercicio">
+        <h2>Positivo ou Negativo</h2>
+        <p>Digite um número:</p>
+        <input type="number" id="valorEx2" placeholder="Ex: -5" />
+        <button class="if-else" onclick="ex2()">Enviar</button>
+        <div id="saidaEx2" class="resultado"></div>
+      </div>
 
-    <!-- ex2 -->
-    <h2>Verificar se um número é positivo ou negativo</h2>
-    <p>- Peça ao usuário para inserir um número</p>
-    <p>- Use um `if-else` para verificar se o número é positivo, negativo</p>
-    <input type="number" id="valorEx2" placeholder="Digite um número">
-    <button onclick="ex2()">Enviar</button>
-    <div id="saidaEx2"></div>
+      <!-- Exercício 3 -->
+      <div class="exercicio">
+        <h2>Aprovação em prova</h2>
+        <p>Digite a nota do aluno (0 a 100):</p>
+        <input type="number" id="valorEx3" placeholder="Ex: 75" />
+        <button class="if-else" onclick="ex3()">Enviar</button>
+        <div id="saidaEx3" class="resultado"></div>
+      </div>
 
-    <!-- ex3 -->
-    <h2>Aprovação em uma prova</h2>
-    <p>- O usuário insere a nota de um aluno (0 a 100)</p>
-    <p>- Se a nota for maior ou igual a 60, exibir "Aprovado", senão "Reprovado"</p>
-    <input type="number" id="valorEx3" placeholder="Digite a nota">
-    <button onclick="ex3()">Enviar</button>
-    <div id="saidaEx3"></div>
+      <!-- Exercício 4 -->
+      <div class="exercicio">
+        <h2>Positivo, Negativo ou Zero</h2>
+        <p>Digite um número:</p>
+        <input type="number" id="valorEx4" placeholder="Ex: 0" />
+        <button class="if-else" onclick="ex4()">Enviar</button>
+        <div id="saidaEx4" class="resultado"></div>
+      </div>
 
-    <!-- ex4 -->
-    <h2>Verificar se um número é positivo, negativo ou zero</h2>
-    <p>- Peça ao usuário para inserir um número</p>
-    <p>- Use um `if-else` para verificar se o número é positivo, negativo ou zero</p>
-    <input type="number" id="valorEx4" placeholder="Digite um número">
-    <button onclick="ex4()">Enviar</button>
-    <div id="saidaEx4"></div>
+      <!-- Exercício 5 -->
+      <div class="exercicio">
+        <h2>Classificação de idade</h2>
+        <p>Digite sua idade:</p>
+        <input type="number" id="valorEx5" placeholder="Ex: 15" />
+        <button class="if-else" onclick="ex5()">Enviar</button>
+        <div id="saidaEx5" class="resultado"></div>
+      </div>
 
-    <!-- ex5 -->
-    <h2>Classificação de idade</h2>
-    <p>- Peça ao usuário para inserir sua idade</p>
-    <p>- Exiba se ele é "Criança" (0-12), "Adolescente" (13-17) ou "Adulto" (18+)</p>
-    <input type="number" id="valorEx5" placeholder="Digite sua idade">
-    <button onclick="ex5()">Enviar</button>
-    <div id="saidaEx5"></div>
+      <!-- Exercício 6 -->
+      <div class="exercicio">
+        <h2>Par ou Ímpar</h2>
+        <p>Digite um número:</p>
+        <input type="number" id="valorEx6" placeholder="Ex: 8" />
+        <button class="if-else" onclick="ex6()">Enviar</button>
+        <div id="saidaEx6" class="resultado"></div>
+      </div>
 
-    <!-- ex6 -->
-    <h2>Classificação de idade</h2>
-    <p>- Peça ao usuário para inserir um número</p>
-    <p>- Use o operador `%` para verificar se o número é divisível por 2</p>
-    <input type="number" id="valorEx6" placeholder="Digite sua idade">
-    <button onclick="ex6()">Enviar</button>
-    <div id="saidaEx6"></div>
-</body>
+      <!-- ex7 -->
+      <div class="exercicio">
+        <h2>Calculadora</h2>
+        <p>Digite um número:</p>
+        <input type="number" id="valorEx7-1" placeholder="Valor X" />
+        <p class="espacamento">Digite um número:</p>
+        <input type="number" id="valorEx7-2" placeholder="Valor Y" />
+        <div class="botoes">
+          <button class="if-else" onclick="ex7soma()">Soma</button>
+          <button class="if-else" onclick="ex7sub()">Subtração</button>
+          <button class="if-else" onclick="ex7mult()">Multiplicação</button>
+          <button class="if-else" onclick="ex7div()">Divisão</button>
+        </div>
+        <div id="saidaEx7" class="resultado"></div>
+      </div>
+
+      <!-- ex8 -->
+      <div class="exercicio">
+        <h2>Maior Número</h2>
+        <p>Digite um número:</p>
+        <input type="number" id="valorEx8-1" placeholder="Valor A" />
+        <p class="espacamento">Digite um número:</p>
+        <input type="number" id="valorEx8-2" placeholder="Valor B" />
+        <p class="espacamento">Digite um número:</p>
+        <input type="number" id="valorEx8-3" placeholder="Valor C" />
+        <button class="if-else" onclick="ex8()">Enviar</button>
+        <div id="saidaEx8" class="resultado"></div>
+      </div>
+
+      <!-- ex9 -->
+      <div class="exercicio">
+        <h2>Desconto</h2>
+        <p>Digite um número:</p>
+        <input type="number" id="valorEx9" placeholder="Ex: 50" />
+        <button class="if-else" onclick="ex9()">Enviar</button>
+        <div id="saidaEx9" class="resultado"></div>
+      </div>
+
+      <!-- ex10 -->
+      <div class="exercicio">
+        <h2>Login</h2>
+        <p>Digite seu usuário:</p>
+        <input type="text" id="valorEx10-1" placeholder="Julinho" />
+        <p class="espacamento">Digite sua senha:</p>
+        <input type="number" id="valorEx10-2" placeholder="****" />
+        <button class="if-else" onclick="ex10()">Enviar</button>
+        <div id="saidaEx10" class="resultado"></div>
+      </div>
+
+      <!-- ex11 -->
+      <div class="exercicio">
+        <h2>Tipo de triângulo</h2>
+        <p>Digite um número:</p>
+        <input type="number" id="valorEx11-1" placeholder="Valor A" />
+        <p class="espacamento">Digite um número:</p>
+        <input type="number" id="valorEx11-2" placeholder="Valor B" />
+        <p class="espacamento">Digite um número:</p>
+        <input type="number" id="valorEx11-3" placeholder="Valor C" />
+        <button class="if-else" onclick="ex11()">Enviar</button>
+        <div id="saidaEx11" class="resultado"></div>
+      </div>
+
+      <!-- ex12 -->
+      <div class="exercicio">
+        <h2>Nota</h2>
+        <p>Digite um número:</p>
+        <input type="number" id="valorEx12" placeholder="Ex: 70" />
+        <button class="if-else" onclick="ex12()">Enviar</button>
+        <div id="saidaEx12" class="resultado"></div>
+      </div>
+
+      <!-- ex13 -->
+      <div class="exercicio">
+        <h2>IMC</h2>
+        <p>Digite sua altura:</p>
+        <input type="number" id="valorEx13-1" placeholder="Ex: 1.78" />
+        <p class="espacamento">Digite seu peso:</p>
+        <input type="number" id="valorEx13-2" placeholder="Ex: 80" />
+        <button class="if-else" onclick="ex13()">Enviar</button>
+        <div id="saidaEx13" class="resultado"></div>
+      </div>
+
+      <!-- ex14 -->
+      <div class="exercicio">
+        <h2>Ano Bissexto</h2>
+        <p>Digite o ano:</p>
+        <input type="number" id="valorEx14" placeholder="Ex: 2004" />
+        <button class="if-else" onclick="ex14()">Enviar</button>
+        <div id="saidaEx14" class="resultado"></div>
+      </div>
+
+      <!-- Teste de Repetição FOR - ex15 -->
+      <div class="exercicio">
+        <h2>Repetição com FOR</h2>
+        <p>Escolha um número:</p>
+        <input type="number" id="valorTesteFOR" placeholder="Ex: 25" />
+        <button class="repeticao" onclick="testeDeRepeticaoFOR()">
+          Enviar
+        </button>
+        <div id="saidaTesteFOR" class="resultado"></div>
+      </div>
+
+      <!-- Teste de Repetição WHILE -->
+      <div class="exercicio">
+        <h2>Repetição com WHILE</h2>
+        <p>Escolha um número:</p>
+        <input type="number" id="valorTesteWHILE" placeholder="Ex: 25" />
+        <button class="repeticao" onclick="testeDeRepeticaoWHILE()">
+          Enviar
+        </button>
+        <div id="saidaTesteWHILE" class="resultado"></div>
+      </div>
+
+      <!-- Teste de Repetição DO WHILE -->
+      <div class="exercicio">
+        <h2>Repetição com DO WHILE</h2>
+        <p>Escolha um número:</p>
+        <input type="number" id="valorTesteDOWHILE" placeholder="Ex: 25" />
+        <button class="repeticao" onclick="testeDeRepeticaoDOWHILE()">
+          Enviar
+        </button>
+        <div id="saidaTesteDOWHILE" class="resultado"></div>
+      </div>
+
+      <!-- Teste de Repetição FOR EACH -->
+      <div class="exercicio">
+        <h2>Repetição com FOR EACH</h2>
+        <p>Insira textos separados por vírgula:</p>
+        <input type="text" id="valorTesteFOREACH" placeholder="Ex: a,2,c,4,e" />
+        <button class="repeticao" onclick="testeDeRepeticaoFOREACH()">
+          Enviar
+        </button>
+        <div id="saidaTesteFOREACH" class="resultado"></div>
+      </div>
+
+      <!-- ex16 -->
+      <div class="exercicio">
+        <h2>Tabuada de 10</h2>
+        <p>Escolha um número:</p>
+        <input type="number" id="valorEx16" placeholder="Ex: 5" />
+        <button class="repeticao" onclick="ex16()">Enviar</button>
+        <div id="saidaEx16" class="resultado"></div>
+      </div>
+
+      <!-- ex17 -->
+      <div class="exercicio">
+        <h2>Soma de números naturais</h2>
+        <p>Escolha um número:</p>
+        <input type="number" id="valorEx17" placeholder="Ex: 5" />
+        <button class="repeticao" onclick="ex17()">Enviar</button>
+        <div id="saidaEx17" class="resultado"></div>
+      </div>
+
+      <!-- ex18 -->
+      <div class="exercicio">
+        <h2>Números pares</h2>
+        <p>Escolha um número:</p>
+        <input type="number" id="valorEx18" placeholder="Ex: 16" />
+        <button class="repeticao" onclick="ex18()">Enviar</button>
+        <div id="saidaEx18" class="resultado"></div>
+      </div>
+
+      <!-- ex19 -->
+      <div class="exercicio">
+        <h2>Adivinha</h2>
+        <p>Escolha um número:</p>
+        <input type="number" id="valorEx19" placeholder="Ex: 10" />
+        <button class="repeticao" onclick="ex19()">Enviar</button>
+        <div id="saidaEx19" class="resultado"></div>
+      </div>
+
+      <!-- ex20 -->
+      <div class="exercicio">
+        <h2>Contagem Regressiva</h2>
+        <p>Escolha um número:</p>
+        <input type="number" id="valorEx20" placeholder="Ex: 10" />
+        <button class="repeticao" onclick="ex20()">Enviar</button>
+        <div id="saidaEx20" class="resultado"></div>
+      </div>
+
+      <!-- ex21 -->
+      <div class="exercicio">
+        <h2>Soma dos dígitos</h2>
+        <p>Escolha um número:</p>
+        <input type="number" id="valorEx21" placeholder="Ex: 10" />
+        <button class="repeticao" onclick="ex21()">Enviar</button>
+        <div id="saidaEx21" class="resultado"></div>
+      </div>
+
+      <!-- ex22 -->
+      <div class="exercicio">
+        <h2>Fatorial</h2>
+        <p>Escolha um número:</p>
+        <input type="number" id="valorEx22" placeholder="Ex: 5" />
+        <button class="repeticao" onclick="ex22()">Enviar</button>
+        <div id="saidaEx22" class="resultado"></div>
+      </div>
+
+      <!-- ex23 -->
+      <div class="exercicio">
+        <h2>Inversão</h2>
+        <p>Escolha um número:</p>
+        <input type="text" id="valorEx23" placeholder="Ex: 10" />
+        <button class="repeticao" onclick="ex23()">Enviar</button>
+        <div id="saidaEx23" class="resultado"></div>
+      </div>
+
+      <!-- ex24 -->
+      <div class="exercicio">
+        <h2>Números perfeitos</h2>
+        <p>Escolha um número:</p>
+        <input type="number" id="valorEx24" placeholder="Ex: 10" />
+        <button class="repeticao" onclick="ex24()">Enviar</button>
+        <div id="saidaEx24" class="resultado"></div>
+      </div>
+    </div>
+  </body>
 </html>
