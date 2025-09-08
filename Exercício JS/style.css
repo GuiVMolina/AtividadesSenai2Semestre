@@ -2,6 +2,7 @@
 :root {
   --azul: #0077ff;
   --laranja: #ff7700;
+  --verde: #99cc00;
   --cor-fundo: #f5f5f5;
   --cor-card: #fff;
   --cor-texto: #000;
@@ -32,6 +33,11 @@ h1 {
 
 h2 {
   margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.5em;
 }
 
 p {
@@ -43,6 +49,11 @@ input {
   border: 1px solid #ccc;
   border-radius: var(--radius);
   width: 100%;
+  margin-bottom: 0.75rem;
+}
+
+.exercicio input + input {
+  margin-top: 0.25rem;
 }
 
 button {
@@ -80,6 +91,14 @@ button:hover {
   background: #cc5f00;
 }
 
+.funcao {
+  background: var(--verde);
+}
+
+.funcao:hover {
+  background: #739900;
+}
+
 .exercicio {
   background: var(--cor-card);
   margin: var(--espaco) auto;
@@ -90,6 +109,7 @@ button:hover {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  transition: box-shadow 0.2s ease;
 }
 
 .exercicio > button {
@@ -97,8 +117,16 @@ button:hover {
   width: 50%;
 }
 
-.espacamento {
-  margin: 5px 0;
+.exercicio.condicoes:hover {
+  box-shadow: 0 2px 25px rgba(0, 119, 255, 0.5);
+}
+
+.exercicio.repeticoes:hover {
+  box-shadow: 0 2px 25px rgba(255, 119, 0, 0.5);
+}
+
+.exercicio.funcoes:hover {
+  box-shadow: 0 2px 25px rgba(153, 204, 0, 0.5);
 }
 
 .resultado {

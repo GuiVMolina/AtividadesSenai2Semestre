@@ -1,4 +1,6 @@
 // Função para exibir exercício na tela
+
+// Verificar maioridade
 function ex1() {
   let idade = Number(document.getElementById("valorEx1").value);
   if (idade >= 18) {
@@ -12,6 +14,7 @@ function ex1() {
   }
 }
 
+// Positivo ou Negativo
 function ex2() {
   let num = Number(document.getElementById("valorEx2").value);
   if (num > 0) {
@@ -23,6 +26,7 @@ function ex2() {
   }
 }
 
+// Aprovação em prova
 function ex3() {
   let nota = Number(document.getElementById("valorEx3").value);
   if (nota >= 60 && nota <= 100) {
@@ -36,6 +40,7 @@ function ex3() {
   }
 }
 
+// Positivo, Negativo ou Zero
 function ex4() {
   let num = Number(document.getElementById("valorEx4").value);
   if (num > 0) {
@@ -50,22 +55,29 @@ function ex4() {
   }
 }
 
+// Classificação de idade
 function ex5() {
   let idade = Number(document.getElementById("valorEx5").value);
-  if (idade >= 0 && idade < 13) {
-    document.getElementById("saidaEx5").innerHTML =
-      "Você tem " + idade + " anos, logo você é criança";
+  if (idade > 0 && idade < 13) {
+    if (idade === 1) {
+      document.getElementById("saidaEx5").innerHTML =
+        "Como você tem " + idade + " ano, você é uma criança";
+    } else {
+      document.getElementById("saidaEx5").innerHTML =
+        "Como você tem " + idade + " anos, você é uma criança";
+    }
   } else if (idade >= 13 && idade < 18) {
     document.getElementById("saidaEx5").innerHTML =
-      "Você tem " + idade + " anos, logo você é adolescente";
+      "Como você tem " + idade + " anos, você é um adolescente";
   } else if (idade >= 18) {
     document.getElementById("saidaEx5").innerHTML =
-      "Você tem " + idade + " anos, logo você é adulto";
+      "Como você tem " + idade + " anos, você é um adulto";
   } else {
     document.getElementById("saidaEx5").innerHTML = "Valor inválido!";
   }
 }
 
+// Par ou Ímpar
 function ex6() {
   let num = Number(document.getElementById("valorEx6").value);
   if (num % 2 == 0) {
@@ -77,6 +89,7 @@ function ex6() {
   }
 }
 
+// Calculadora
 function ex7soma() {
   let numX = Number(document.getElementById("valorEx7-1").value);
   let numY = Number(document.getElementById("valorEx7-2").value);
@@ -109,6 +122,7 @@ function ex7div() {
     numX + " / " + numY + " = " + resultado;
 }
 
+// Maior Número
 function ex8() {
   let valorA = Number(document.getElementById("valorEx8-1").value);
   let valorB = Number(document.getElementById("valorEx8-2").value);
@@ -117,18 +131,28 @@ function ex8() {
   if (valorA === valorB && valorB === valorC) {
     document.getElementById("saidaEx8").innerHTML =
       "Todos os valores são iguais (" + valorA + ")";
-  } else if (valorA >= valorB && valorA >= valorC) {
+  } else if (valorA > valorB && valorA > valorC) {
     document.getElementById("saidaEx8").innerHTML =
       "O valor de A é o maior (" + valorA + ")";
-  } else if (valorB >= valorA && valorB >= valorC) {
+  } else if (valorB > valorA && valorB > valorC) {
     document.getElementById("saidaEx8").innerHTML =
       "O valor de B é o maior (" + valorB + ")";
+  } else if (valorA === valorB && valorA > valorC) {
+    document.getElementById("saidaEx8").innerHTML =
+      "O valor de A e B são os maiores (" + valorA + ")";
+  } else if (valorA === valorC && valorA > valorB) {
+    document.getElementById("saidaEx8").innerHTML =
+      "O valor de A e C são os maiores (" + valorA + ")";
+  } else if (valorB === valorC && valorB > valorA) {
+    document.getElementById("saidaEx8").innerHTML =
+      "O valor de B e C são os maiores (" + valorB + ")";
   } else {
     document.getElementById("saidaEx8").innerHTML =
       "O valor de C é o maior (" + valorC + ")";
   }
 }
 
+// Desconto
 function ex9() {
   let valor = Number(document.getElementById("valorEx9").value);
   if (valor > 100) {
@@ -145,6 +169,7 @@ function ex9() {
   }
 }
 
+// Login
 function ex10() {
   let user = document.getElementById("valorEx10-1").value;
   let senha = document.getElementById("valorEx10-2").value;
@@ -156,6 +181,7 @@ function ex10() {
   }
 }
 
+// Tipo de triângulo
 function ex11() {
   let ladoA = Number(document.getElementById("valorEx11-1").value);
   let ladoB = Number(document.getElementById("valorEx11-2").value);
@@ -175,6 +201,7 @@ function ex11() {
   }
 }
 
+// Nota
 function ex12() {
   let nota = Number(document.getElementById("valorEx12").value);
   if (nota >= 90 && nota <= 100) {
@@ -197,6 +224,7 @@ function ex12() {
   }
 }
 
+// IMC
 function ex13() {
   let altura = Number(document.getElementById("valorEx13-1").value);
   let peso = Number(document.getElementById("valorEx13-2").value);
@@ -218,6 +246,7 @@ function ex13() {
   }
 }
 
+// Ano Bissexto
 function ex14() {
   let ano = Number(document.getElementById("valorEx14").value);
   let bissexto = ano % 400 === 0 || (ano % 4 === 0 && ano % 100 !== 0);
@@ -230,8 +259,9 @@ function ex14() {
   }
 }
 
-function testeDeRepeticaoFOR() {
-  let num = Number(document.getElementById("valorTesteFOR").value);
+// Repetição com FOR
+function testeFOR() {
+  let num = Number(document.getElementById("valorFOR").value);
   let saida = "";
 
   if (num > 0) {
@@ -243,11 +273,12 @@ function testeDeRepeticaoFOR() {
       saida += i + " ";
     }
   }
-  document.getElementById("saidaTesteFOR").innerHTML = saida;
+  document.getElementById("saidaFOR").innerHTML = saida;
 }
 
-function testeDeRepeticaoWHILE() {
-  let num = Number(document.getElementById("valorTesteWHILE").value);
+// Repetição com WHILE
+function testeWHILE() {
+  let num = Number(document.getElementById("valorWHILE").value);
   let saida = "";
 
   if (num > 0) {
@@ -263,11 +294,12 @@ function testeDeRepeticaoWHILE() {
       i--;
     }
   }
-  document.getElementById("saidaTesteWHILE").innerHTML = saida;
+  document.getElementById("saidaWHILE").innerHTML = saida;
 }
 
-function testeDeRepeticaoDOWHILE() {
-  let num = Number(document.getElementById("valorTesteDOWHILE").value);
+// Repetição com DO WHILE
+function testeDOWHILE() {
+  let num = Number(document.getElementById("valorDOWHILE").value);
   let saida = "";
 
   if (num > 0) {
@@ -283,23 +315,22 @@ function testeDeRepeticaoDOWHILE() {
       i--;
     } while (i >= num);
   }
-  document.getElementById("saidaTesteDOWHILE").innerHTML = saida;
+  document.getElementById("saidaDOWHILE").innerHTML = saida;
 }
 
-function testeDeRepeticaoFOREACH() {
-  let entrada = document.getElementById("valorTesteFOREACH").value;
-
+// Repetição com FOR EACH
+function testeFOREACH() {
+  let entrada = document.getElementById("valorFOREACH").value;
   // transforma a string em array, removendo espaços e convertendo para número
-  let texto = entrada.split(",").map((n) => n.trim());
-
+  let texto = entrada.split(" ").map((n) => n.trim());
   let saida = "";
-
   texto.forEach((num, index) => {
     saida += `Posição ${index}: ${num} <br>`;
   });
-  document.getElementById("saidaTesteFOREACH").innerHTML = saida;
+  document.getElementById("saidaFOREACH").innerHTML = saida;
 }
 
+// Tabuada de 10
 function ex16() {
   let num = document.getElementById("valorEx16").value;
   let saida = "";
@@ -309,6 +340,7 @@ function ex16() {
   document.getElementById("saidaEx16").innerHTML = saida;
 }
 
+// Soma de números naturais
 function ex17() {
   let num = Number(document.getElementById("valorEx17").value);
   let total = 0;
@@ -320,44 +352,55 @@ function ex17() {
   document.getElementById("saidaEx17").innerHTML = saida + " = " + total;
 }
 
+// Números pares
 function ex18() {
   let num = Number(document.getElementById("valorEx18").value);
   let saida = "";
 
   if (num > 0) {
     for (let i = 1; i <= num; i++) {
-      i % 2 == 0 ? saida += i + " ": saida += "";
+      i % 2 === 0 ? (saida += i + " ") : (saida += "");
     }
   } else {
     for (let i = 0; i >= num; i--) {
-      i % 2 == 0 ? saida += i + " ": saida += "";
+      i % 2 === 0 ? (saida += i + " ") : (saida += "");
     }
   }
   document.getElementById("saidaEx18").innerHTML = saida;
 }
 
+// Adivinha
+let random = Math.floor(Math.random() * 101);
 function ex19() {
   let num = Number(document.getElementById("valorEx19").value);
-  let random = Math.floor(Math.random() * 101);
-  let saida = ""
-  while (num != random) {
-    num > random ? saida = "Menor..." : saida = "Maior...";
-    document.getElementById("saidaEx19").innerHTML = saida + " Tente novamente!";
+
+  if (num === random) {
+    document.getElementById("saidaEx19").innerHTML =
+      "🎉 Acertou! (" + random + ")";
+  } else if (num > random && num <= 100) {
+    document.getElementById("saidaEx19").innerHTML =
+      "Menor... tente novamente! (" + random + ")";
+  } else if (num < random && num >= 0) {
+    document.getElementById("saidaEx19").innerHTML =
+      "Maior... tente novamente! (" + random + ")";
+  } else {
+    document.getElementById("saidaEx19").innerHTML = "Valor inválido!";
   }
-  document.getElementById("saidaEx19").innerHTML = "Acertou! (" + random + ")";
 }
 
+// Contagem Regressiva
 function ex20() {
   let num = Number(document.getElementById("valorEx20").value);
   let saida = "";
-  
+
   while (num > 0) {
-    num % 10 == 0 ? saida += num + "<br>" : saida += num + " - ";
+    num % 10 === 0 ? (saida += num + "<br>") : (saida += num + " - ");
     num--;
   }
   document.getElementById("saidaEx20").innerHTML = saida + " 0";
 }
 
+// Soma dos dígitos
 function ex21() {
   let num = document.getElementById("valorEx21").value;
   let vetor = Array.from(num);
@@ -375,7 +418,7 @@ function ex21() {
   document.getElementById("saidaEx21").innerHTML = saida + " = " + soma;
 }
 
-
+// Fatorial
 function ex22() {
   let num = Number(document.getElementById("valorEx22").value);
   let total = 1;
@@ -384,19 +427,63 @@ function ex22() {
     i == num ? (saida += i) : (saida += i + " * ");
     total *= i;
   }
-  document.getElementById("saidaEx22").innerHTML = saida + " = " + total;
+  if (num > 0) {
+    document.getElementById("saidaEx22").innerHTML =
+      num + "! = " + saida + " = " + total;
+  } else if (num === 0) {
+    document.getElementById("saidaEx22").innerHTML = num + "! = " + total;
+  } else {
+    document.getElementById("saidaEx22").innerHTML = "Valor inválido!";
+  }
 }
 
+// Inversão
 function ex23() {
-  let texto = document.getElementById("valorEx23").value
+  let texto = document.getElementById("valorEx23").value;
   let invert = Array.from(texto);
   let saida = "";
-  for (let i = invert.length - 1; i >= 0; i--){
+  for (let i = invert.length - 1; i >= 0; i--) {
     saida += invert[i];
   }
   document.getElementById("saidaEx23").innerHTML = texto + " = " + saida;
 }
 
+// Números perfeitos
 function ex24() {
+  let num = Number(document.getElementById("valorEx24").value);
+  let soma = 0;
+  if (num <= 1) {
+    document.getElementById("saidaEx24").innerHTML = "Valor inválido!";
+  } else {
+    for (let i = 1; i <= num / 2; i++) {
+      if (num % i == 0) {
+        soma += i;
+      }
+    }
+    if (soma == num) {
+      document.getElementById("saidaEx24").innerHTML =
+        num + " é um número perfeito";
+    } else {
+      document.getElementById("saidaEx24").innerHTML =
+        num + " não é um Número perfeito";
+    }
+  }
+}
 
+// Teste do Filter
+function testeFilter() {
+  let entrada = document.getElementById("valorFilter").value;
+  let num = Number(document.getElementById("valorMaiorQueFilter").value);
+  let vetor = Array.from(entrada.split(" "));
+  let saida = vetor.filter((numero) => numero > num);
+  document.getElementById("saidaFilter").innerHTML = saida;
+}
+
+// Teste do Find
+function testeFind() {
+  let entrada = document.getElementById("valorFind").value;
+  let num = Number(document.getElementById("valorMaiorQueFind").value);
+  let vetor = Array.from(entrada.split(" "));
+  let saida = vetor.find((numero) => numero > num);
+  document.getElementById("saidaFind").innerHTML = saida;
 }
