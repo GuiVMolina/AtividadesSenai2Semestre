@@ -59,3 +59,27 @@ const maiorNumero = numerosAleatorios.reduce((max, numero) => {
     return max;
   }
 }, numeros[0]);
+
+const palavras = ["maçã", "banana", "maçã", "laranja", "banana", "maçã"];
+const contagem = palavras.reduce((acumulador, palavra) => {
+  acumulador[palavra] = (acumulador[palavra] || 0) + 1;
+  return acumulador;
+}, {});
+
+const notas = [7, 8, 9, 6, 10];
+const media = notas.reduce((total, nota) => total + nota, 0) / notas.length;
+console.log(media);
+
+const usuarios = [
+  {id: 1, nome: "Alice", idade: 25},
+  {id: 2, nome: "Bob", idade: 30},
+  {id: 3, nome: "Carol", idade: 20}
+];
+const maioresDeIdade = usuarios.filter(usuario => usuario.idade > 21);
+const usuarioIdade = usuarios.find(usuario => usuario.idade > 21);
+const nomesUsuarios = usuarios.map(usuario => usuario.nome);
+const somaIdades = usuarios.reduce((total, usuario) => total + usuario.idade, 0);
+console.log("Maior de idade: " + maioresDeIdade);
+console.log("Primeiro maior de idade: " + usuarioIdade);
+console.log("Nomes dos usuários: " + nomesUsuarios);
+console.log("Soma de idades: " + somaIdades);

@@ -97,7 +97,6 @@ function ex7soma() {
   document.getElementById("saidaEx7").innerHTML =
     numX + " + " + numY + " = " + resultado;
 }
-
 function ex7sub() {
   let numX = Number(document.getElementById("valorEx7-1").value);
   let numY = Number(document.getElementById("valorEx7-2").value);
@@ -105,7 +104,6 @@ function ex7sub() {
   document.getElementById("saidaEx7").innerHTML =
     numX + " - " + numY + " = " + resultado;
 }
-
 function ex7mult() {
   let numX = Number(document.getElementById("valorEx7-1").value);
   let numY = Number(document.getElementById("valorEx7-2").value);
@@ -113,7 +111,6 @@ function ex7mult() {
   document.getElementById("saidaEx7").innerHTML =
     numX + " * " + numY + " = " + resultado;
 }
-
 function ex7div() {
   let numX = Number(document.getElementById("valorEx7-1").value);
   let numY = Number(document.getElementById("valorEx7-2").value);
@@ -321,10 +318,9 @@ function testeDOWHILE() {
 // Repetição com FOR EACH
 function testeFOREACH() {
   let entrada = document.getElementById("valorFOREACH").value;
-  // transforma a string em array, removendo espaços e convertendo para número
-  let texto = entrada.split(" ").map((n) => n.trim());
+  let vetor = Array.from(entrada.split(" "));
   let saida = "";
-  texto.forEach((num, index) => {
+  vetor.forEach((num, index) => {
     saida += `Posição ${index}: ${num} <br>`;
   });
   document.getElementById("saidaFOREACH").innerHTML = saida;
@@ -471,19 +467,134 @@ function ex24() {
 }
 
 // Teste do Filter
-function testeFilter() {
-  let entrada = document.getElementById("valorFilter").value;
-  let num = Number(document.getElementById("valorMaiorQueFilter").value);
-  let vetor = Array.from(entrada.split(" "));
-  let saida = vetor.filter((numero) => numero > num);
+function testeFilterMaiorQue() {
+  let entrada = Array.from(document.getElementById("valorFilter").value.split(" "))
+  let info = document.getElementById("valorFilterInfo").value;
+  let saida = entrada.filter((maiorQue) => maiorQue > info);
+  document.getElementById("saidaFilter").innerHTML = saida;
+}
+function testeFilterMaisQue() {
+  let entrada = Array.from(document.getElementById("valorFilter").value.split(" "))
+  let info = document.getElementById("valorFilterInfo").value;
+  let saida = entrada.filter((maisQue) => maisQue.length > info);
+  document.getElementById("saidaFilter").innerHTML = saida;
+}
+function testeFilterComecaCom() {
+  let entrada = Array.from(document.getElementById("valorFilter").value.split(" "))
+  let info = document.getElementById("valorFilterInfo").value;
+  let saida = entrada.filter((comecaCom) => comecaCom.startsWith(info));
   document.getElementById("saidaFilter").innerHTML = saida;
 }
 
 // Teste do Find
-function testeFind() {
-  let entrada = document.getElementById("valorFind").value;
-  let num = Number(document.getElementById("valorMaiorQueFind").value);
-  let vetor = Array.from(entrada.split(" "));
-  let saida = vetor.find((numero) => numero > num);
+function testeFindComecaCom() {
+  let entrada = Array.from(document.getElementById("valorFind").value.split(" "))
+  let info = document.getElementById("valorFindInfo").value;
+  let saida = entrada.find((comecaCom) => comecaCom.startsWith(info));
   document.getElementById("saidaFind").innerHTML = saida;
 }
+function testeFindImpar() {
+  let entrada = Array.from(document.getElementById("valorFind").value.split(" "))
+  let saida = entrada.find((comecaCom) => comecaCom % 2 === 1);
+  document.getElementById("saidaFind").innerHTML = saida;
+}
+function testeFindNota() {
+  let entrada = Array.from(document.getElementById("valorFind").value.split(" "))
+  let info = document.getElementById("valorFindInfo").value;
+  let saida = entrada.find((comecaCom) => comecaCom >= info);
+  document.getElementById("saidaFind").innerHTML = saida;
+}
+
+// Teste do Map 1
+function testeMapNome() {
+  let nomes = document.getElementById("valorMapNome").value.split(" ");
+  let saida = nomes.map((nome) => `Nome: ${nome}`);
+  document.getElementById("saidaMap1").innerHTML = saida.join("<br>");
+}
+function testeMapIdade() {
+  let idades = document.getElementById("valorMapIdade").value.split(" ");
+  let saida = idades.map((idade) => `Idade: ${idade}`);
+  document.getElementById("saidaMap1").innerHTML = saida.join("<br>");
+}
+function testeMapAll() {
+  let nomes = document.getElementById("valorMapNome").value.split(" ");
+  let idades = document.getElementById("valorMapIdade").value.split(" ");
+  let pessoas = nomes.map((nome, index) => ({
+    nome: nome,
+    idade: idades[index],
+  }));
+  let saida = pessoas.map(
+    (pessoa) => `${pessoa.nome} tem ${pessoa.idade} anos`
+  );
+  document.getElementById("saidaMap1").innerHTML = saida.join("<br>");
+}
+
+// Teste do Map 2
+function testeMapFahrenheit() {
+  let celsius = document.getElementById("valorMap").value.split(" ");
+  let saida = celsius.map((fahrenheit) => `Fº: ${fahrenheit * 1.8 + 32}`);
+  document.getElementById("saidaMap2").innerHTML = saida;
+}
+function testeMapProduto() {
+  let celsius = document.getElementById("valorMap").value.split(" ");
+  let saida = celsius.map((produto) => `Produto: ${produto.toUpperCase()}`);
+  document.getElementById("saidaMap2").innerHTML = saida;
+}
+function testeMapPotencia() {
+  let celsius = document.getElementById("valorMap").value.split(" ");
+  let saida = celsius.map((num) => `${num}² = ${num * num}`);
+  document.getElementById("saidaMap2").innerHTML = saida;
+}
+
+// Teste do Reduce
+function testeReduce() {
+  let palavras = document.getElementById("valorReduce").value.split(" ");
+  const contagem = palavras.reduce((acumulador, palavra) => {
+    acumulador[palavra] = (acumulador[palavra] || 0) + 1;
+    return acumulador;
+  }, {});
+  let saida = Object.entries(contagem).map(
+    ([valor, qtd]) => `${valor}: ${qtd}`
+  );
+  document.getElementById("saidaReduce").innerHTML = saida.join("<br>");
+}
+function testeReduceTotal(){
+  let valores = document.getElementById("valorReduce").value.split(" ").map(Number);
+  const total = valores.reduce((acumulador, valor) => acumulador + valor, 0);
+  document.getElementById("saidaReduce").innerHTML = "Total: " + total;
+}
+function testeReduceFrase(){
+  let palavras = document.getElementById("valorReduce").value.split(" ");
+  const frase = palavras.reduce((acc, palavra) => acc + " " + palavra);
+  document.getElementById("saidaReduce").innerHTML = frase;
+}
+function testeReduceMedia(){
+  let valores = document.getElementById("valorReduce").value.split(" ").map(Number);
+  const total = valores.reduce((acumulador, valor) => acumulador + valor, 0) / valores.length;
+  document.getElementById("saidaReduce").innerHTML = "Média: " + total;
+}
+
+// Desafio 1
+function desafioMaiorQue() {
+  let entrada = Array.from(document.getElementById("valorDesafio1Info").value.split(","))
+  let saida = entrada.find((maiorQue) => maiorQue > 200);
+  document.getElementById("saidaDesafio1").innerHTML = saida;
+}
+function desafioTitulos() {
+  let nomes = document.getElementById("valorDesafio1").value.split(",");
+  let saida = nomes.map((nome) => `Título: ${nome}`);
+  document.getElementById("saidaDesafio1").innerHTML = saida.join("<br>");
+}
+function desafioTotal() {
+  let valores = document.getElementById("valorDesafio1Info").value.split(",").map(Number);
+  const total = valores.reduce((acumulador, valor) => acumulador + valor, 0);
+  document.getElementById("saidaDesafio1").innerHTML = "Total: " + total;
+}
+
+// Desafio 2
+// function desafioLista() {
+// }
+// function desafioValorCompra() {
+// }
+// function desafioProduto() {
+// }

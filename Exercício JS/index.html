@@ -287,12 +287,18 @@
           <h3>Filter</h3>
           <p>Escolha os valores:</p>
           <input type="text" id="valorFilter" placeholder="Ex: 1 2 3 4" />
-          <input
-            type="text"
-            id="valorMaiorQueFilter"
-            placeholder="Maior que..."
-          />
-          <button class="funcao" onclick="testeFilter()">Enviar</button>
+          <input type="text" id="valorFilterInfo" placeholder="Ex: 2" />
+          <div class="botoes">
+            <button class="funcao" onclick="testeFilterMaiorQue()">
+              Número
+            </button>
+            <button class="funcao" onclick="testeFilterMaisQue()">
+              Letras
+            </button>
+            <button class="funcao" onclick="testeFilterComecaCom()">
+              Começa
+            </button>
+          </div>
           <div id="saidaFilter" class="resultado"></div>
         </div>
 
@@ -301,13 +307,97 @@
           <h3>Find</h3>
           <p>Escolha os valores:</p>
           <input type="text" id="valorFind" placeholder="Ex: 1 2 3 4" />
+          <input type="text" id="valorFindInfo" placeholder="Ex: 3" />
+          <div class="botoes">
+            <button class="funcao" onclick="testeFindComecaCom()">
+              Começa
+            </button>
+            <button class="funcao" onclick="testeFindImpar()">Ímpar</button>
+            <button class="funcao" onclick="testeFindNota()">Nota</button>
+          </div>
+          <div id="saidaFind" class="resultado"></div>
+        </div>
+
+        <!-- Teste do Map 1 -->
+        <div class="exercicio funcoes">
+          <h3>Map1</h3>
+          <p>Escolha os valores:</p>
           <input
             type="text"
-            id="valorMaiorQueFind"
-            placeholder="Maior que..."
+            id="valorMapNome"
+            placeholder="Ex: Ana Bruno Caio"
           />
-          <button class="funcao" onclick="testeFind()">Enviar</button>
-          <div id="saidaFind" class="resultado"></div>
+          <input type="text" id="valorMapIdade" placeholder="Ex: 19 20 21" />
+          <div class="botoes">
+            <button class="funcao" onclick="testeMapNome()">Nome</button>
+            <button class="funcao" onclick="testeMapIdade()">Idade</button>
+            <button class="funcao" onclick="testeMapAll()">Tudo</button>
+          </div>
+          <div id="saidaMap1" class="resultado"></div>
+        </div>
+
+        <!-- Teste do Map 2 -->
+        <div class="exercicio funcoes">
+          <h3>Map2</h3>
+          <p>Escolha os valores:</p>
+          <input type="text" id="valorMap" placeholder="Ex: 20 25 30" />
+          <div class="botoes">
+            <button class="funcao" onclick="testeMapFahrenheit()">
+              Fahrenheit
+            </button>
+            <button class="funcao" onclick="testeMapProduto()">Produto</button>
+            <button class="funcao" onclick="testeMapPotencia()">
+              Potência
+            </button>
+          </div>
+          <div id="saidaMap2" class="resultado"></div>
+        </div>
+
+        <!-- Teste do Reduce -->
+        <div class="exercicio funcoes">
+          <h3>Reduce</h3>
+          <p>Escolha os valores:</p>
+          <input type="text" id="valorReduce" placeholder="Ex: 1 2 1 3 1 2" />
+          <div class="botoes">
+            <button class="funcao" onclick="testeReduce()">Quantidade</button>
+            <button class="funcao" onclick="testeReduceTotal()">Total</button>
+            <button class="funcao" onclick="testeReduceFrase()">Frase</button>
+            <button class="funcao" onclick="testeReduceMedia()">Média</button>
+          </div>
+          <div id="saidaReduce" class="resultado"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- * Desafio * -->
+    <section>
+      <h2>Desafios</h2>
+      <div class="grid">
+        <!-- Desafio 1 -->
+        <div class="exercicio desafios">
+          <h3>Livraria</h3>
+          <p>Títulos:</p>
+          <input type="text" id="valorDesafio1" placeholder="Ex: Dom Casmurro,O Hobbit,A Revolução dos Bichos" />
+          <p>Páginas:</p>
+          <input type="text" id="valorDesafio1Info" placeholder="Ex: 300,295,112" />
+          <div class="botoes">
+            <button class="desafio" onclick="desafioMaiorQue()">Páginas</button>
+            <button class="desafio" onclick="desafioTitulos()">Títulos</button>
+            <button class="desafio" onclick="desafioTotal()">Total</button>
+          </div>
+          <div id="saidaDesafio1" class="resultado"></div>
+        </div>
+
+        <!-- Desafio 2 -->
+        <div class="exercicio desafios">
+          <h3>Carrinho</h3>
+          <p>Produtos:</p>
+          <input type="text" id="valorDesafio2" placeholder="Ex: Notebook,Mouse,Teclado" />
+          <p>Preços:</p>
+          <input type="text" id="valorDesafio2Info" placeholder="Ex: 2500,100,200" />
+          <div class="botoes">
+          </div>
+          <div id="saidaDesafio2" class="resultado"></div>
         </div>
       </div>
     </section>

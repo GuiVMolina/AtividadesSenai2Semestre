@@ -3,6 +3,7 @@
   --azul: #0077ff;
   --laranja: #ff7700;
   --verde: #99cc00;
+  --roxo: #9900cc;
   --cor-fundo: #f5f5f5;
   --cor-card: #fff;
   --cor-texto: #000;
@@ -99,6 +100,14 @@ button:hover {
   background: #739900;
 }
 
+.desafio {
+  background: var(--roxo);
+}
+
+.desafio:hover {
+  background: #730099;
+}
+
 .exercicio {
   background: var(--cor-card);
   margin: var(--espaco) auto;
@@ -127,6 +136,10 @@ button:hover {
 
 .exercicio.funcoes:hover {
   box-shadow: 0 2px 25px rgba(153, 204, 0, 0.5);
+}
+
+.exercicio.desafios:hover {
+  box-shadow: 0 2px 25px rgba(153, 0, 204, 0.502);
 }
 
 .resultado {
