@@ -73,7 +73,7 @@ button:hover {
 
 .botoes {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .if-else {

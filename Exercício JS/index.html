@@ -108,7 +108,7 @@
           <p>Digite seu usuário:</p>
           <input type="text" id="valorEx10-1" placeholder="Julinho" />
           <p>Digite sua senha:</p>
-          <input type="number" id="valorEx10-2" placeholder="****" />
+          <input type="text" id="valorEx10-2" placeholder="****" />
           <button class="if-else" onclick="ex10()">Enviar</button>
           <div id="saidaEx10" class="resultado"></div>
         </div>
@@ -207,7 +207,7 @@
         <!-- Exercício 17 -->
         <div class="exercicio repeticoes">
           <h3>Soma de números naturais</h3>
-          <p>Escolha um número:</p>
+          <p>Escolha um número natural:</p>
           <input type="number" id="valorEx17" placeholder="Ex: 5" />
           <button class="repeticao" onclick="ex17()">Enviar</button>
           <div id="saidaEx17" class="resultado"></div>
@@ -243,7 +243,7 @@
         <!-- Exercício 21 -->
         <div class="exercicio repeticoes">
           <h3>Soma dos dígitos</h3>
-          <p>Escolha um número:</p>
+          <p>Escolha um número natural:</p>
           <input type="number" id="valorEx21" placeholder="Ex: 10" />
           <button class="repeticao" onclick="ex21()">Enviar</button>
           <div id="saidaEx21" class="resultado"></div>
@@ -261,8 +261,8 @@
         <!-- Exercício 23 -->
         <div class="exercicio repeticoes">
           <h3>Inversão</h3>
-          <p>Escolha um número:</p>
-          <input type="text" id="valorEx23" placeholder="Ex: 10" />
+          <p>Escolha um número natural:</p>
+          <input type="number" id="valorEx23" placeholder="Ex: 10" />
           <button class="repeticao" onclick="ex23()">Enviar</button>
           <div id="saidaEx23" class="resultado"></div>
         </div>
@@ -381,21 +381,24 @@
           <p>Páginas:</p>
           <input type="text" id="valorDesafio1Info" placeholder="Ex: 300,295,112" />
           <div class="botoes">
-            <button class="desafio" onclick="desafioMaiorQue()">Páginas</button>
+            <button class="desafio" onclick="desafioMaiorQue()">Páginas > 200</button>
             <button class="desafio" onclick="desafioTitulos()">Títulos</button>
             <button class="desafio" onclick="desafioTotal()">Total</button>
           </div>
           <div id="saidaDesafio1" class="resultado"></div>
         </div>
-
+        
         <!-- Desafio 2 -->
         <div class="exercicio desafios">
           <h3>Carrinho</h3>
           <p>Produtos:</p>
           <input type="text" id="valorDesafio2" placeholder="Ex: Notebook,Mouse,Teclado" />
-          <p>Preços:</p>
+          <p>Preços ou Encontrar:</p>
           <input type="text" id="valorDesafio2Info" placeholder="Ex: 2500,100,200" />
           <div class="botoes">
+            <button class="desafio" onclick="desafioLista()">Produtos</button>
+            <button class="desafio" onclick="desafioValorCompra()">Total</button>
+            <button class="desafio" onclick="desafioProduto()">Encontrar</button>
           </div>
           <div id="saidaDesafio2" class="resultado"></div>
         </div>
