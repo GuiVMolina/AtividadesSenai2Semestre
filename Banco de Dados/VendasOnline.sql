@@ -182,8 +182,8 @@ GO
 
 -- Inserindo dados na tabela DetalhesPedido
 INSERT INTO DetalhesPedido (PedidoID, ProdutoID, Quantidade, PrecoUnitario) VALUES
-(1, 1, 1, 4500.00), -- Computador Dell no Pedido de Jo�o
-(1, 2, 1, 1200.00), -- Mesa Digitalizadora no Pedido de Jo�o
+(1, 1, 1, 4500.00), -- Computador Dell no Pedido de João
+(1, 2, 1, 1200.00), -- Mesa Digitalizadora no Pedido de João
 (2, 2, 1, 1200.00), -- Mesa Digitalizadora no Pedido de Maria
 (3, 1, 1, 4500.00), -- Computador Dell no Pedido de Carlos
 (4, 4, 1, 3500.00), -- Smart TV Samsung no Pedido de Ana
@@ -223,7 +223,8 @@ FROM Cliente
 -- 3. Exiba o valor absoluto do estoque dos produtos (mesmo que o valor seja negativo)
 -- 4. Calcule o quadrado do preço de cada produto e exiba como PrecoAoQuadrado
 
-SELECT Preco, (Preco * 0.85) AS Desconto15Porcento
+SELECT Preco,
+       (Preco * 0.85) AS Desconto15Porcento
 FROM Produto
 
 SELECT ROUND(Preco, 2) AS PrecoArredondado
@@ -232,7 +233,8 @@ FROM Produto
 SELECT (Preco * QuantidadeEstoque) AS ValorAbsoluto
 FROM Produto
 
-SELECT Preco, POWER(Preco, 2) AS PrecoAoQuadrado
+SELECT Preco,
+       POWER(Preco, 2) AS PrecoAoQuadrado
 FROM Produto
 
 -------------------------------
@@ -248,7 +250,21 @@ SELECT pr.NomeProduto,
        DATENAME(MONTH, pe.DataPedido) AS Mes
 FROM DetalhesPedido d
 JOIN Produto pr ON pr.ProdutoID = d.ProdutoID
-JOIN Pedido pe ON pe.PedidoID = d.PedidoID;
+JOIN Pedido pe ON pe.PedidoID = d.PedidoID
+
+SELECT Nome,
+       DATEDIFF(YEAR, DataCadastro, GETDATE()) AS AnosDeCadastro
+FROM Cliente
+
+SELECT DataPedido,
+       DATEADD(DAY, 30, DataPedido) AS DataEntregaPrevista
+FROM Pedido
+
+SELECT pr.NomeProduto,
+       DATENAME(WEEKDAY, pe.DataPedido) AS DiaDaSemana
+FROM DetalhesPedido d
+JOIN Produto pr ON pr.ProdutoID = d.ProdutoID
+JOIN Pedido pe ON pe.PedidoID = d.PedidoID
 
 -----------------------------
 -- 4. Funções de Agregação --
@@ -258,6 +274,24 @@ JOIN Pedido pe ON pe.PedidoID = d.PedidoID;
 -- 3. Identifique o maior e o menor preço dos produtos e exiba ambos
 -- 4. Conte quantos pedidos foram realizados no total
 
+SELECT SUM(QuantidadeEstoque) AS QuantidadeTotal
+FROM Produto
+
+SELECT AVG(Preco) AS PrecoMedio
+FROM Produto
+
+SELECT TOP 1 NomeProduto,
+             Preco
+FROM Produto
+ORDER BY Preco DESC
+
+-- SELECT MAX(Preco) AS MaisCaro,
+--        MIN(Preco) AS MaisBarato
+-- FROM Produto
+
+SELECT SUM(Quantidade) AS QuantidadePedidos
+FROM DetalhesPedido
+
 -------------------------------
 -- 5. Consultas com GROUP BY --
 -------------------------------
@@ -265,3 +299,33 @@ JOIN Pedido pe ON pe.PedidoID = d.PedidoID;
 -- 2. Calcule o total de estoque por categoria de produto
 -- 3. Exiba o número de produtos por categoria
 -- 4. Liste a soma dos valores totais dos pedidos (ValorTotal) agrupados por status (Status)
+
+SELECT c.Nome,
+       SUM(d.Quantidade) AS TotalPedido
+FROM Cliente c
+JOIN Pedido p ON p.ClienteID = c.ClienteID
+JOIN DetalhesPedido d ON d.PedidoID = p.PedidoID
+GROUP BY c.Nome;
+
+SELECT c.Nome,
+       SUM(p.QuantidadeEstoque) AS TotalEstoque
+FROM Categoria c
+JOIN Produto p ON p.CategoriaID = c.CategoriaId
+GROUP BY c.Nome;
+
+SELECT c.Nome AS Categoria,
+       COUNT(p.ProdutoID) AS NumeroProdutos
+FROM Categoria c
+LEFT JOIN Produto p
+  ON p.CategoriaID = c.CategoriaId
+GROUP BY c.Nome
+ORDER BY NumeroProdutos DESC;
+
+SELECT s.Nome AS StatusPedido,
+       COUNT(p.PedidoID) AS TotalPedidos,
+       SUM(p.ValorTotal) AS SomaValorTotal
+FROM StatusPedido s
+LEFT JOIN Pedido p
+  ON p.StatusID = s.StatusId
+GROUP BY s.Nome
+ORDER BY SomaValorTotal DESC;
