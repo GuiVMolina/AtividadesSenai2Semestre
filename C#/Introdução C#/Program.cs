@@ -63,13 +63,16 @@ class Program
                     }
                     break;
                 case 2:
+                    int contagem = 1;
                     Console.Write("Digite o número inicial: ");
                     int inicio = int.Parse(Console.ReadLine());
                     Console.Write("Digite o número final: ");
                     int fim = int.Parse(Console.ReadLine());
                     for (int i = inicio; i <= fim; i++)
                     {
-                        Console.WriteLine(i);
+                        Console.Write($"{i} ");
+                        contagem++;
+                        if (contagem % 10 == 0){Console.WriteLine();}
                     }
                     break;
                 case 3:
