@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript - Exercícios</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="Exercícios.js"></script>
+  </head>
+  <body>
+    <h1>📘 Meus Exercícios em JavaScript</h1>
+    <!-- * Condições * -->
+    <section>
+      <h2>Condições</h2>
+      <div class="grid">
+        <!-- Exercício 1 -->
+        <div class="exercicio condicoes">
+          <h3>Verificar maioridade</h3>
+          <p>Digite sua idade:</p>
+          <input type="number" id="valorEx1" placeholder="Ex: 18" />
+          <button class="if-else" onclick="ex1()">Enviar</button>
+          <div id="saidaEx1" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 2 -->
+        <div class="exercicio condicoes">
+          <h3>Positivo ou Negativo</h3>
+          <p>Digite um número:</p>
+          <input type="number" id="valorEx2" placeholder="Ex: -5" />
+          <button class="if-else" onclick="ex2()">Enviar</button>
+          <div id="saidaEx2" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 3 -->
+        <div class="exercicio condicoes">
+          <h3>Aprovação em prova</h3>
+          <p>Digite a nota do aluno (0 a 100):</p>
+          <input type="number" id="valorEx3" placeholder="Ex: 75" />
+          <button class="if-else" onclick="ex3()">Enviar</button>
+          <div id="saidaEx3" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 4 -->
+        <div class="exercicio condicoes">
+          <h3>Positivo, Negativo ou Zero</h3>
+          <p>Digite um número:</p>
+          <input type="number" id="valorEx4" placeholder="Ex: 0" />
+          <button class="if-else" onclick="ex4()">Enviar</button>
+          <div id="saidaEx4" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 5 -->
+        <div class="exercicio condicoes">
+          <h3>Classificação de idade</h3>
+          <p>Digite sua idade:</p>
+          <input type="number" id="valorEx5" placeholder="Ex: 15" />
+          <button class="if-else" onclick="ex5()">Enviar</button>
+          <div id="saidaEx5" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 6 -->
+        <div class="exercicio condicoes">
+          <h3>Par ou Ímpar</h3>
+          <p>Digite um número:</p>
+          <input type="number" id="valorEx6" placeholder="Ex: 8" />
+          <button class="if-else" onclick="ex6()">Enviar</button>
+          <div id="saidaEx6" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 7 -->
+        <div class="exercicio condicoes">
+          <h3>Calculadora</h3>
+          <p>Defina os valores:</p>
+          <input type="number" id="valorEx7-1" placeholder="Valor X" />
+          <input type="number" id="valorEx7-2" placeholder="Valor Y" />
+          <div class="botoes">
+            <button class="if-else" onclick="ex7soma()">Soma</button>
+            <button class="if-else" onclick="ex7sub()">Subtração</button>
+            <button class="if-else" onclick="ex7mult()">Multiplicação</button>
+            <button class="if-else" onclick="ex7div()">Divisão</button>
+          </div>
+          <div id="saidaEx7" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 8 -->
+        <div class="exercicio condicoes">
+          <h3>Maior Número</h3>
+          <p>Defina os valores:</p>
+          <input type="number" id="valorEx8-1" placeholder="Valor A" />
+          <input type="number" id="valorEx8-2" placeholder="Valor B" />
+          <input type="number" id="valorEx8-3" placeholder="Valor C" />
+          <button class="if-else" onclick="ex8()">Enviar</button>
+          <div id="saidaEx8" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 9 -->
+        <div class="exercicio condicoes">
+          <h3>Desconto</h3>
+          <p>Digite um número:</p>
+          <input type="number" id="valorEx9" placeholder="Ex: 50" />
+          <button class="if-else" onclick="ex9()">Enviar</button>
+          <div id="saidaEx9" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 10 -->
+        <div class="exercicio condicoes">
+          <h3>Login</h3>
+          <p>Digite seu usuário:</p>
+          <input type="text" id="valorEx10-1" placeholder="Julinho" />
+          <p>Digite sua senha:</p>
+          <input type="text" id="valorEx10-2" placeholder="****" />
+          <button class="if-else" onclick="ex10()">Enviar</button>
+          <div id="saidaEx10" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 11 -->
+        <div class="exercicio condicoes">
+          <h3>Tipo de triângulo</h3>
+          <p>Defina os valores:</p>
+          <input type="number" id="valorEx11-1" placeholder="Valor A" />
+          <input type="number" id="valorEx11-2" placeholder="Valor B" />
+          <input type="number" id="valorEx11-3" placeholder="Valor C" />
+          <button class="if-else" onclick="ex11()">Enviar</button>
+          <div id="saidaEx11" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 12 -->
+        <div class="exercicio condicoes">
+          <h3>Nota</h3>
+          <p>Digite um número:</p>
+          <input type="number" id="valorEx12" placeholder="Ex: 70" />
+          <button class="if-else" onclick="ex12()">Enviar</button>
+          <div id="saidaEx12" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 13 -->
+        <div class="exercicio condicoes">
+          <h3>IMC</h3>
+          <p>Digite sua altura:</p>
+          <input type="number" id="valorEx13-1" placeholder="Ex: 1.78" />
+          <p>Digite seu peso:</p>
+          <input type="number" id="valorEx13-2" placeholder="Ex: 80" />
+          <button class="if-else" onclick="ex13()">Enviar</button>
+          <div id="saidaEx13" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 14 -->
+        <div class="exercicio condicoes">
+          <h3>Ano Bissexto</h3>
+          <p>Digite o ano:</p>
+          <input type="number" id="valorEx14" placeholder="Ex: 2004" />
+          <button class="if-else" onclick="ex14()">Enviar</button>
+          <div id="saidaEx14" class="resultado"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- * Laços de Repetição * -->
+    <section>
+      <h2>Laços de Repetição</h2>
+      <div class="grid">
+        <!-- Teste de Repetição FOR - Exercício 15 -->
+        <div class="exercicio repeticoes">
+          <h3>Repetição com FOR</h3>
+          <p>Escolha um número:</p>
+          <input type="number" id="valorFOR" placeholder="Ex: 25" />
+          <button class="repeticao" onclick="testeFOR()">Enviar</button>
+          <div id="saidaFOR" class="resultado"></div>
+        </div>
+
+        <!-- Teste de Repetição WHILE -->
+        <div class="exercicio repeticoes">
+          <h3>Repetição com WHILE</h3>
+          <p>Escolha um número:</p>
+          <input type="number" id="valorWHILE" placeholder="Ex: 25" />
+          <button class="repeticao" onclick="testeWHILE()">Enviar</button>
+          <div id="saidaWHILE" class="resultado"></div>
+        </div>
+
+        <!-- Teste de Repetição DO WHILE -->
+        <div class="exercicio repeticoes">
+          <h3>Repetição com DO WHILE</h3>
+          <p>Escolha um número:</p>
+          <input type="number" id="valorDOWHILE" placeholder="Ex: 25" />
+          <button class="repeticao" onclick="testeDOWHILE()">Enviar</button>
+          <div id="saidaDOWHILE" class="resultado"></div>
+        </div>
+
+        <!-- Teste de Repetição FOR EACH -->
+        <div class="exercicio repeticoes">
+          <h3>Repetição com FOR EACH</h3>
+          <p>Escolha os valores:</p>
+          <input type="text" id="valorFOREACH" placeholder="Ex: a b c d e" />
+          <button class="repeticao" onclick="testeFOREACH()">Enviar</button>
+          <div id="saidaFOREACH" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 16 -->
+        <div class="exercicio repeticoes">
+          <h3>Tabuada de 10</h3>
+          <p>Escolha um número:</p>
+          <input type="number" id="valorEx16" placeholder="Ex: 5" />
+          <button class="repeticao" onclick="ex16()">Enviar</button>
+          <div id="saidaEx16" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 17 -->
+        <div class="exercicio repeticoes">
+          <h3>Soma de números naturais</h3>
+          <p>Escolha um número natural:</p>
+          <input type="number" id="valorEx17" placeholder="Ex: 5" />
+          <button class="repeticao" onclick="ex17()">Enviar</button>
+          <div id="saidaEx17" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 18 -->
+        <div class="exercicio repeticoes">
+          <h3>Números pares</h3>
+          <p>Escolha um número:</p>
+          <input type="number" id="valorEx18" placeholder="Ex: 16" />
+          <button class="repeticao" onclick="ex18()">Enviar</button>
+          <div id="saidaEx18" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 19 -->
+        <div class="exercicio repeticoes">
+          <h3>Adivinha</h3>
+          <p>Escolha um número de 0 a 100:</p>
+          <input type="number" id="valorEx19" placeholder="Ex: 10" />
+          <button class="repeticao" onclick="ex19()">Enviar</button>
+          <div id="saidaEx19" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 20 -->
+        <div class="exercicio repeticoes">
+          <h3>Contagem Regressiva</h3>
+          <p>Escolha um número:</p>
+          <input type="number" id="valorEx20" placeholder="Ex: 10" />
+          <button class="repeticao" onclick="ex20()">Enviar</button>
+          <div id="saidaEx20" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 21 -->
+        <div class="exercicio repeticoes">
+          <h3>Soma dos dígitos</h3>
+          <p>Escolha um número natural:</p>
+          <input type="number" id="valorEx21" placeholder="Ex: 10" />
+          <button class="repeticao" onclick="ex21()">Enviar</button>
+          <div id="saidaEx21" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 22 -->
+        <div class="exercicio repeticoes">
+          <h3>Fatorial</h3>
+          <p>Escolha um número:</p>
+          <input type="number" id="valorEx22" placeholder="Ex: 5" />
+          <button class="repeticao" onclick="ex22()">Enviar</button>
+          <div id="saidaEx22" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 23 -->
+        <div class="exercicio repeticoes">
+          <h3>Inversão</h3>
+          <p>Escolha um número natural:</p>
+          <input type="number" id="valorEx23" placeholder="Ex: 10" />
+          <button class="repeticao" onclick="ex23()">Enviar</button>
+          <div id="saidaEx23" class="resultado"></div>
+        </div>
+
+        <!-- Exercício 24 -->
+        <div class="exercicio repeticoes">
+          <h3>Números perfeitos</h3>
+          <p>Escolha um número:</p>
+          <input type="number" id="valorEx24" placeholder="Ex: 28" />
+          <button class="repeticao" onclick="ex24()">Enviar</button>
+          <div id="saidaEx24" class="resultado"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- * Funções * -->
+    <section>
+      <h2>Funções</h2>
+      <div class="grid">
+        <!-- Teste do Filter -->
+        <div class="exercicio funcoes">
+          <h3>Filter</h3>
+          <p>Escolha os valores:</p>
+          <input type="text" id="valorFilter" placeholder="Ex: 1 2 3 4" />
+          <input type="text" id="valorFilterInfo" placeholder="Ex: 2" />
+          <div class="botoes">
+            <button class="funcao" onclick="testeFilterMaiorQue()">
+              Número
+            </button>
+            <button class="funcao" onclick="testeFilterMaisQue()">
+              Letras
+            </button>
+            <button class="funcao" onclick="testeFilterComecaCom()">
+              Começa
+            </button>
+          </div>
+          <div id="saidaFilter" class="resultado"></div>
+        </div>
+
+        <!-- Teste do Find -->
+        <div class="exercicio funcoes">
+          <h3>Find</h3>
+          <p>Escolha os valores:</p>
+          <input type="text" id="valorFind" placeholder="Ex: 1 2 3 4" />
+          <input type="text" id="valorFindInfo" placeholder="Ex: 3" />
+          <div class="botoes">
+            <button class="funcao" onclick="testeFindComecaCom()">
+              Começa
+            </button>
+            <button class="funcao" onclick="testeFindImpar()">Ímpar</button>
+            <button class="funcao" onclick="testeFindNota()">Nota</button>
+          </div>
+          <div id="saidaFind" class="resultado"></div>
+        </div>
+
+        <!-- Teste do Map 1 -->
+        <div class="exercicio funcoes">
+          <h3>Map1</h3>
+          <p>Escolha os valores:</p>
+          <input
+            type="text"
+            id="valorMapNome"
+            placeholder="Ex: Ana Bruno Caio"
+          />
+          <input type="text" id="valorMapIdade" placeholder="Ex: 19 20 21" />
+          <div class="botoes">
+            <button class="funcao" onclick="testeMapNome()">Nome</button>
+            <button class="funcao" onclick="testeMapIdade()">Idade</button>
+            <button class="funcao" onclick="testeMapAll()">Tudo</button>
+          </div>
+          <div id="saidaMap1" class="resultado"></div>
+        </div>
+
+        <!-- Teste do Map 2 -->
+        <div class="exercicio funcoes">
+          <h3>Map2</h3>
+          <p>Escolha os valores:</p>
+          <input type="text" id="valorMap" placeholder="Ex: 20 25 30" />
+          <div class="botoes">
+            <button class="funcao" onclick="testeMapFahrenheit()">
+              Fahrenheit
+            </button>
+            <button class="funcao" onclick="testeMapProduto()">Produto</button>
+            <button class="funcao" onclick="testeMapPotencia()">
+              Potência
+            </button>
+          </div>
+          <div id="saidaMap2" class="resultado"></div>
+        </div>
+
+        <!-- Teste do Reduce -->
+        <div class="exercicio funcoes">
+          <h3>Reduce</h3>
+          <p>Escolha os valores:</p>
+          <input type="text" id="valorReduce" placeholder="Ex: 1 2 1 3 1 2" />
+          <div class="botoes">
+            <button class="funcao" onclick="testeReduce()">Quantidade</button>
+            <button class="funcao" onclick="testeReduceTotal()">Total</button>
+            <button class="funcao" onclick="testeReduceFrase()">Frase</button>
+            <button class="funcao" onclick="testeReduceMedia()">Média</button>
+          </div>
+          <div id="saidaReduce" class="resultado"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- * Desafio * -->
+    <section>
+      <h2>Desafios</h2>
+      <div class="grid">
+        <!-- Desafio 1 -->
+        <div class="exercicio desafios">
+          <h3>Livraria</h3>
+          <p>Títulos:</p>
+          <input
+            type="text"
+            id="valorDesafio1"
+            placeholder="Ex: Dom Casmurro,O Hobbit,A Revolução dos Bichos"
+          />
+          <p>Páginas:</p>
+          <input
+            type="text"
+            id="valorDesafio1Info"
+            placeholder="Ex: 300,295,112"
+          />
+          <div class="botoes">
+            <button class="desafio" onclick="desafioMaiorQue()">
+              Páginas > 200
+            </button>
+            <button class="desafio" onclick="desafioTitulos()">Títulos</button>
+            <button class="desafio" onclick="desafioTotal()">Total</button>
+          </div>
+          <div id="saidaDesafio1" class="resultado"></div>
+        </div>
+
+        <!-- Desafio 2 -->
+        <div class="exercicio desafios">
+          <h3>Carrinho</h3>
+          <p>Produtos:</p>
+          <input
+            type="text"
+            id="valorDesafio2"
+            placeholder="Ex: Notebook,Mouse,Teclado"
+          />
+          <p>Preços ou Encontrar:</p>
+          <input
+            type="text"
+            id="valorDesafio2Info"
+            placeholder="Ex: 2500,100,200"
+          />
+          <div class="botoes">
+            <button class="desafio" onclick="desafioLista()">Produtos</button>
+            <button class="desafio" onclick="desafioValorCompra()">
+              Total
+            </button>
+            <button class="desafio" onclick="desafioProduto()">
+              Encontrar
+            </button>
+          </div>
+          <div id="saidaDesafio2" class="resultado"></div>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>

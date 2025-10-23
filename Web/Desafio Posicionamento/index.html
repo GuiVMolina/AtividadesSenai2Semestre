@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Posicionamento</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="icon" type="image/png" href="fantasma.png">
+</head>
+<body>
+    <h1>Posicionamento com flexbox</h1>
+
+    <h2>Space-between</h2>
+    <div class="espacamento1 div-flex">
+        <img src="img/icone-bicicleta.png" alt="bicicleta">
+        <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+        <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+    </div>
+    
+    <h2>Space-around</h2>
+    <div class="espacamento2 div-flex">
+        <img src="img/icone-bicicleta.png" alt="bicicleta">
+        <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+        <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+    </div>
+    
+    <h2>Space-evenly</h2>
+    <div class="espacamento3 div-flex">
+        <img src="img/icone-bicicleta.png" alt="bicicleta">
+        <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+        <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+    </div>
+    
+    <h2>Center</h2>
+    <div class="centralizado div-flex">
+        <img src="img/icone-bicicleta.png" alt="bicicleta">
+        <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+        <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+    </div>
+    
+    <h2>Flex-start</h2>
+    <div class="esquerda div-flex">
+        <img src="img/icone-bicicleta.png" alt="bicicleta">
+        <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+        <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+    </div>
+    
+    <h2>Flex-end</h2>
+    <div class="direita div-flex">
+        <img src="img/icone-bicicleta.png" alt="bicicleta">
+        <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+        <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+    </div>
+
+    <h2>Subdivisão com space-between</h2>
+    <div class="direita-amarelo div-flex">
+        <img src="img/icone-bicicleta.png" alt="bicicleta">
+        <div class="amarelo">
+            <img src="img/icone-bicicleta.png" alt="bicicleta">
+            <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+            <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+        </div>
+    </div>
+
+    <h2>Subdivisão com space-between + espaçamento</h2>
+    <div class="direita-amarelo div-flex">
+        <img src="img/icone-bicicleta.png" alt="bicicleta">
+        <div class="amarelo amarelo-espacamento">
+            <img src="img/icone-bicicleta.png" alt="bicicleta">
+            <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+            <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+        </div>
+    </div>
+    
+    <h2>Dupla Subdivisão com space-between</h2>
+    <div class="espacamento1 div-flex">
+        <img src="img/icone-bicicleta.png" alt="bicicleta">
+        <div class="amarelo">
+            <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+            <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+        </div>
+        <div class="amarelo">
+            <img src="img/icone-bicicleta.png" alt="bicicleta">
+            <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+            <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+        </div>
+    </div>
+    
+    <h2>Dupla Subdivisão com space-between em coluna</h2>
+    <div class="espacamento1 div-flex coluna">
+        <img src="img/icone-bicicleta.png" alt="bicicleta">
+        <div class="amarelo">
+            <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+            <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+        </div>
+        <div class="amarelo">
+            <img src="img/icone-bicicleta.png" alt="bicicleta">
+            <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+            <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+        </div>
+    </div>
+
+    <h2>Desafio</h2>
+    <div class="espacamento1 div-flex coluna">
+        <div class="espacamento1 div-flex linha">
+            <img src="img/icone-bicicleta.png" alt="bicicleta">
+            <div class="amarelo">
+                <img src="img/icone-bicicleta.png" alt="bicicleta">
+                <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+                <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+            </div>
+        </div>
+        <div class="espacamento1 div-flex linha">
+            <div class="amarelo">
+                <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+                <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+            </div>
+            <div class="amarelo">
+                <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+                <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+            </div>
+            <div class="amarelo">
+                <img class="fantasma" src="img/icone-fantasma.png" alt="fantasma">
+                <img src="img/icone-hipopotamo.png" alt="hipopótamo">
+            </div>
+        </div>
+    </div>
+</body>
+</html>

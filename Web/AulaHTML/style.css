@@ -1,0 +1,142 @@
+:root {
+    --cor-texto: rgb(255, 255, 255);
+    --cor-detalhe: rgb(255, 255, 255);
+    --cor-input: rgb(0, 0, 0);
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--cor-texto);
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(0deg, rgba(0, 0, 64, 1) 0%, rgba(0, 48, 64, 1) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin: 0 auto;
+    width: 34em;
+    padding: 1em;
+    border: 0.25em solid var(--cor-detalhe);
+    border-radius: 1em;
+    background: rgba(0, 0, 0, 0.25);
+    box-shadow:rgba(255, 255, 255, 0.25) 0 0 2em;
+}
+
+label {
+    display: inline-block;
+    width: 6em;
+    text-align: right;
+}
+
+label,
+input,
+textarea {
+    margin-bottom: 1em;
+}
+
+input {
+    border: 0;
+    border-radius: 0.25em;
+    color: var(--cor-input);
+}
+
+input[type="file"] {
+    color: var(--cor-texto);
+}
+
+input[type="file"]::file-selector-button {
+    color: var(--cor-input);
+    background: var(--cor-texto);
+    border: none;
+    border-radius: 0.25em;
+    padding: 0.5em 1em;
+    cursor: pointer;
+}
+
+input,
+textarea,
+button {
+    transition: all 0.15s; /* Transição suave */
+}
+
+input:focus,
+textarea:focus {
+    border-color: rgb(0, 191, 255);
+    outline: 2px solid rgb(0, 191, 255);
+}
+
+select {
+    color: var(--cor-input);
+    border-radius: 0.5em;
+}
+
+option {
+    color: var(--cor-input);
+}
+
+button {
+    height: 2.5em;
+    width: 7.5em;
+    font-size: 1em;
+    border: 0.15em solid var(--cor-texto);
+    border-radius: 0.5em;
+    background-color: rgba(0, 0, 0, 0);
+    color: var(--cor-texto);
+    margin: 0 auto;
+    display: block;
+}
+
+button:hover {
+    background-color: rgb(24, 128, 128);
+}
+
+a.link {
+    margin: 0 auto;
+    margin-top: 1em;
+    display: block;
+    text-align: center;
+}
+
+a.link:hover {
+    color: rgb(0, 191, 255);
+}
+
+.data {
+    width: auto;
+    margin-left: 1.5em;
+}
+
+.termos {
+    display: flex;
+    margin-left: 1.5em;
+    gap: 0.5em;
+}
+
+.termos label {
+    width: auto;
+}
+
+.termos input[type="checkbox"]:focus {
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
+
+.termos label,
+.termos input {
+    margin-bottom: 0;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Info</title>
+</head>
+<body>
+    <h1>Formulário</h1>
+    <form>
+        <label for="nome">Nome:</label>
+        <input id="nome" type="text" required>
+
+        <label for="age">Idade:</label>
+        <input id="age" type="number" required>
+        <br>
+
+        <label for="">Email:</label>
+        <input type="email" name="" id="" placeholder="email@email.com">
+
+        <label for="senha">Senha:</label>
+        <input type="password" name="" id="" required>
+        <br>
+
+        <label for="telefone">Telefone:</label>
+        <input id="telefone" type="tel" placeholder="(99) 99999-9999">
+
+        <label for="genero">Gênero:</label>
+        <select id="genero">
+            <option value="">Selecione</option>
+            <option value="masculino">Masculino</option>
+            <option value="feminino">Feminino</option>
+            <option value="outro">Outro</option>
+        </select>
+        <br>
+
+        <label for="nascimento" class="data">Data de Nascimento:</label>
+        <input id="nascimento" type="date">
+        <br>
+
+        <div class="termos">
+            <input type="checkbox" required id="termos">
+            <label for="termos">Aceito os termos e condições</label>
+        </div>
+        <br>
+
+        <button type="submit">Enviar</button>
+    </form>
+
+    <a href="Index.html" class="link">Página Principal</a>
+</body>
+</html>

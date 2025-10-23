@@ -1,0 +1,107 @@
+:root {
+    --fundo: linear-gradient(to right, rgb(13, 0, 77), rgb(149, 0, 255));
+    --fundo2: linear-gradient(to right, rgb(153, 140, 0), rgb(204, 187, 0));
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scrollbar-width: auto;
+    scrollbar-color: rgb(149, 0, 255) rgb(8, 0, 32);
+}
+
+body {
+    background-color: rgb(8, 0, 32);
+    min-height: 100vh;
+}
+
+img {
+    width: 9.375em;
+    filter: brightness(10);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin: 1.25em 0em;
+    text-shadow: white 0em 0em 12.5em, white 0em 0em 1.25em;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    margin: 3.75em 0em 1.25em 0em;
+    font-size: 1.5em;
+    text-shadow: white 0em 0em 12.5em, white 0em 0em 1.25em;
+}
+
+.fantasma {
+    width: 5.625em;
+}
+
+div {
+    background-image: var(--fundo);
+    margin-bottom: 0.0625em;
+    display: flex;
+}
+
+.div-flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.amarelo {
+    background-image: var(--fundo2);
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.amarelo-espacamento {
+    width: 40em;
+}
+
+.espacamento1 {
+    justify-content: space-between;
+}
+
+.espacamento2 {
+    justify-content: space-around;
+}
+
+.espacamento3 {
+    justify-content: space-evenly;
+}
+
+.centralizado {
+    justify-content: center;
+}
+
+.esquerda {
+    justify-content: flex-start;
+}
+
+.direita {
+    justify-content: flex-end;
+}
+
+.direita-amarelo {
+    justify-content: space-between;
+}
+
+.coluna {
+    flex-direction: column;
+    align-items: flex-start;
+    height: 25em;
+}
+
+.linha {
+    flex-direction: row;
+}
