@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Atividade 23.10 - Classe Pessoa/1.0.0": {
+        "runtime": {
+          "Atividade 23.10 - Classe Pessoa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade 23.10 - Classe Pessoa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InversaoDependencias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8091adfceeeedc833d6fb2ffa2b1db32075fcd39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+999d4618730a4c9e1490f2cce9d29d466b432920")]
 [assembly: System.Reflection.AssemblyProductAttribute("InversaoDependencias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InversaoDependencias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

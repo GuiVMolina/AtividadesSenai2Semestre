@@ -1,0 +1,15 @@
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\obj\Debug\net9.0\SubstituicaoLiskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\obj\Debug\net9.0\SubstituicaoLiskov.AssemblyInfoInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\obj\Debug\net9.0\SubstituicaoLiskov.AssemblyInfo.cs
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\obj\Debug\net9.0\SubstituicaoLiskov.csproj.CoreCompileInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\obj\Debug\net9.0\SubstituicaoLiskov.sourcelink.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\bin\Debug\net9.0\SubstituicaoLiskov.exe
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\bin\Debug\net9.0\SubstituicaoLiskov.deps.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\bin\Debug\net9.0\SubstituicaoLiskov.runtimeconfig.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\bin\Debug\net9.0\SubstituicaoLiskov.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\bin\Debug\net9.0\SubstituicaoLiskov.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\obj\Debug\net9.0\SubstituicaoLiskov.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\obj\Debug\net9.0\refint\SubstituicaoLiskov.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\obj\Debug\net9.0\SubstituicaoLiskov.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\obj\Debug\net9.0\SubstituicaoLiskov.genruntimeconfig.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\AtividadePOO\SOLID\SubstituicaoLiskov\obj\Debug\net9.0\ref\SubstituicaoLiskov.dll

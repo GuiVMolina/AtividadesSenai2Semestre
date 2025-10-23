@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\AtividadePOO\\SOLID\\InversaoDependencias\\InversaoDependencias.csproj",
+      "projectUniqueName": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\AtividadePOO\\SOLID\\InversaoDependencias\\InversaoDependencias.csproj",
       "projectName": "InversaoDependencias",
-      "projectPath": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\AtividadePOO\\SOLID\\InversaoDependencias\\InversaoDependencias.csproj",
+      "projectPath": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\AtividadePOO\\SOLID\\InversaoDependencias\\InversaoDependencias.csproj",
       "packagesPath": "C:\\Users\\46581849820\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\AtividadePOO\\SOLID\\InversaoDependencias\\obj\\",
+      "outputPath": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\AtividadePOO\\SOLID\\InversaoDependencias\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

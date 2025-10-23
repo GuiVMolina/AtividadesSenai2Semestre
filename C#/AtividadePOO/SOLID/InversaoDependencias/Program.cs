@@ -9,7 +9,6 @@ class Program
 
         Interruptor interruptor = new Interruptor(lampada);
         Interruptor interruptor2 = new Interruptor(ar);
-
         interruptor.Acionar();
         interruptor2.Acionar();
     }
