@@ -1,0 +1,15 @@
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\bin\Debug\net9.0\Sistema de Animais.exe
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\bin\Debug\net9.0\Sistema de Animais.deps.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\bin\Debug\net9.0\Sistema de Animais.runtimeconfig.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\bin\Debug\net9.0\Sistema de Animais.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\bin\Debug\net9.0\Sistema de Animais.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.AssemblyInfoInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.AssemblyInfo.cs
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.csproj.CoreCompileInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.sourcelink.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\obj\Debug\net9.0\refint\Sistema de Animais.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.genruntimeconfig.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Animais\obj\Debug\net9.0\ref\Sistema de Animais.dll

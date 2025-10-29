@@ -1,0 +1,15 @@
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\bin\Debug\net9.0\Sistema de Veículos.exe
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\bin\Debug\net9.0\Sistema de Veículos.deps.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\bin\Debug\net9.0\Sistema de Veículos.runtimeconfig.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\bin\Debug\net9.0\Sistema de Veículos.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\bin\Debug\net9.0\Sistema de Veículos.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\obj\Debug\net9.0\Sistema de Veículos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\obj\Debug\net9.0\Sistema de Veículos.AssemblyInfoInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\obj\Debug\net9.0\Sistema de Veículos.AssemblyInfo.cs
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\obj\Debug\net9.0\Sistema de Veículos.csproj.CoreCompileInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\obj\Debug\net9.0\Sistema de Veículos.sourcelink.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\obj\Debug\net9.0\Sistema de Veículos.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\obj\Debug\net9.0\refint\Sistema de Veículos.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\obj\Debug\net9.0\Sistema de Veículos.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\obj\Debug\net9.0\Sistema de Veículos.genruntimeconfig.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Veículos\obj\Debug\net9.0\ref\Sistema de Veículos.dll

@@ -1,0 +1,15 @@
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\bin\Debug\net9.0\Sistema de Funcionários.exe
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\bin\Debug\net9.0\Sistema de Funcionários.deps.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\bin\Debug\net9.0\Sistema de Funcionários.runtimeconfig.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\bin\Debug\net9.0\Sistema de Funcionários.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\bin\Debug\net9.0\Sistema de Funcionários.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\obj\Debug\net9.0\Sistema de Funcionários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\obj\Debug\net9.0\Sistema de Funcionários.AssemblyInfoInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\obj\Debug\net9.0\Sistema de Funcionários.AssemblyInfo.cs
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\obj\Debug\net9.0\Sistema de Funcionários.csproj.CoreCompileInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\obj\Debug\net9.0\Sistema de Funcionários.sourcelink.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\obj\Debug\net9.0\Sistema de Funcionários.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\obj\Debug\net9.0\refint\Sistema de Funcionários.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\obj\Debug\net9.0\Sistema de Funcionários.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\obj\Debug\net9.0\Sistema de Funcionários.genruntimeconfig.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Funcionários\obj\Debug\net9.0\ref\Sistema de Funcionários.dll

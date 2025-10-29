@@ -1,0 +1,15 @@
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\obj\Debug\net9.0\Sistema de Personagens de Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\obj\Debug\net9.0\Sistema de Personagens de Jogo.AssemblyInfoInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\obj\Debug\net9.0\Sistema de Personagens de Jogo.AssemblyInfo.cs
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\obj\Debug\net9.0\Sistema de Personagens de Jogo.csproj.CoreCompileInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\obj\Debug\net9.0\Sistema de Personagens de Jogo.sourcelink.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\bin\Debug\net9.0\Sistema de Personagens de Jogo.exe
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\bin\Debug\net9.0\Sistema de Personagens de Jogo.deps.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\bin\Debug\net9.0\Sistema de Personagens de Jogo.runtimeconfig.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\bin\Debug\net9.0\Sistema de Personagens de Jogo.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\bin\Debug\net9.0\Sistema de Personagens de Jogo.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\obj\Debug\net9.0\Sistema de Personagens de Jogo.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\obj\Debug\net9.0\refint\Sistema de Personagens de Jogo.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\obj\Debug\net9.0\Sistema de Personagens de Jogo.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\obj\Debug\net9.0\Sistema de Personagens de Jogo.genruntimeconfig.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 29.10 - Exercícios\Sistema de Personagens de Jogo\obj\Debug\net9.0\ref\Sistema de Personagens de Jogo.dll
