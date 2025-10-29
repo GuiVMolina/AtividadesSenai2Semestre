@@ -1,27 +1,39 @@
-using System.Text.Encodings.Web;
-
 namespace Atividade_28._10___Gestão_de_Hotel
 {
     public class ReservaVip : Reserva
     {
         public int Desconto { get; set; }
-
-        public ReservaVip(string hospede, int quarto, string tipo, int desconto, decimal precoDiaria) 
-            : base(hospede, quarto, tipo, precoDiaria)
+        public ReservaVip(Hospede hospede, Quarto quarto, int dias, int desconto, double valorTotal)
+            : base(hospede, quarto, dias, valorTotal)
         {
             Desconto = desconto;
         }
 
-        public override void CalcularTotal()
+        public override double CalcularTotal()
         {
-            decimal total = (PrecoDiaria * Dias) * ((100 - Desconto) / 100m);
-            Console.WriteLine($"Valor total da reserva (com {Desconto}% de desconto): R$ {total:F2}");
+            double ValorSemDesconto = QuartoReserva.PrecoDiaria * Dias;
+            double valorComDesconto = ValorSemDesconto * (1 - (Desconto / 100.0));
+            Console.WriteLine($"Valor total da reserva (com {Desconto}% de desconto): R${valorComDesconto:F2}");
+            return valorComDesconto;
         }
 
         public override void ExibirDetalhes()
         {
-            base.ExibirDetalhes();
-            Console.WriteLine($"Desconto: {Desconto}%");
+            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.WriteLine("\n======= Detalhes da Reserva VIP =======");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine($"Hóspede: {HospedeReserva.Nome}"
+                            + $"\nTipo: {QuartoReserva.Tipo}"
+                            + $"\nQuarto: {QuartoReserva.Numero}"
+                            + $"\nDias: {Dias}"
+                            + $"\nDiária: R${QuartoReserva.PrecoDiaria:F2}"
+                            + $"\nDesconto: {Desconto}%");
+            
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("\n------- Resumo do Pagamento -------");
+            Console.ForegroundColor = ConsoleColor.White;
+            CalcularTotal();
+            Console.WriteLine("=====================================\n");
         }
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema de Funcionários")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c0665eff83d348947bb88f3f5823139c1ff482e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4cac60a9baaae48b613ad43b78598c9a6b2a942")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema de Funcionários")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema de Funcionários")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

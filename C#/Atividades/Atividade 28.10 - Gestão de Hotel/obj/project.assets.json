@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\AtividadePOO\\Atividade 28.10 - Gestão de Hotel\\Atividade 28.10 - Gestão de Hotel.csproj",
+      "projectUniqueName": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\Atividades\\Atividade 28.10 - Gestão de Hotel\\Atividade 28.10 - Gestão de Hotel.csproj",
       "projectName": "Atividade 28.10 - Gestão de Hotel",
-      "projectPath": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\AtividadePOO\\Atividade 28.10 - Gestão de Hotel\\Atividade 28.10 - Gestão de Hotel.csproj",
+      "projectPath": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\Atividades\\Atividade 28.10 - Gestão de Hotel\\Atividade 28.10 - Gestão de Hotel.csproj",
       "packagesPath": "C:\\Users\\46581849820\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\AtividadePOO\\Atividade 28.10 - Gestão de Hotel\\obj\\",
+      "outputPath": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\Atividades\\Atividade 28.10 - Gestão de Hotel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

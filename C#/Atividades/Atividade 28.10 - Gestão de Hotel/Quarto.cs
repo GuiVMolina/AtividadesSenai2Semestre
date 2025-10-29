@@ -7,6 +7,14 @@ namespace Atividade_28._10___Gestão_de_Hotel
         public double PrecoDiaria { get; set; }
         public bool Disponivel { get; set; }
 
+        public Quarto(int numero, string tipo, double precoDiaria)
+        {
+            Numero = numero;
+            Tipo = tipo;
+            PrecoDiaria = precoDiaria;
+            Disponivel = true; // Inicialmente, o quarto está disponível
+        }
+
         public void ExibirInformacoes()
         {
             Console.WriteLine($"Número: {Numero}"
