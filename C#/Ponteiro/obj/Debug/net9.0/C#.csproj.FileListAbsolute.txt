@@ -1,0 +1,15 @@
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\bin\Debug\net9.0\C#.exe
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\bin\Debug\net9.0\C#.deps.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\bin\Debug\net9.0\C#.runtimeconfig.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\bin\Debug\net9.0\C#.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\bin\Debug\net9.0\C#.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\obj\Debug\net9.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\obj\Debug\net9.0\C#.AssemblyInfoInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\obj\Debug\net9.0\C#.AssemblyInfo.cs
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\obj\Debug\net9.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\obj\Debug\net9.0\C#.sourcelink.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\obj\Debug\net9.0\C#.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\obj\Debug\net9.0\refint\C#.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\obj\Debug\net9.0\C#.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\obj\Debug\net9.0\C#.genruntimeconfig.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\C#\obj\Debug\net9.0\ref\C#.dll

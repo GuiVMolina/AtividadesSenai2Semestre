@@ -15,7 +15,7 @@ namespace Atividade_28._10___Gestão_de_Hotel
             Telefone = telefone;
         }
 
-        public void ExibirDetalhes()
+        public void ExibirHospede()
         {
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("\n=== Dados do Hóspede ===");

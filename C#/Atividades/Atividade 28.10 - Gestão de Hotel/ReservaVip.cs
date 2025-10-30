@@ -13,14 +13,14 @@ namespace Atividade_28._10___Gestão_de_Hotel
         {
             double ValorSemDesconto = QuartoReserva.PrecoDiaria * Dias;
             double valorComDesconto = ValorSemDesconto * (1 - (Desconto / 100.0));
-            Console.WriteLine($"Valor total da reserva (com {Desconto}% de desconto): R${valorComDesconto:F2}");
+            Console.WriteLine($"Valor total da reserva\n({Desconto}% de desconto): R${valorComDesconto:F2}");
             return valorComDesconto;
         }
 
         public override void ExibirDetalhes()
         {
-            Console.ForegroundColor = ConsoleColor.Magenta;
-            Console.WriteLine("\n======= Detalhes da Reserva VIP =======");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("\n===== Detalhes da Reserva VIP =====");
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine($"Hóspede: {HospedeReserva.Nome}"
                             + $"\nTipo: {QuartoReserva.Tipo}"
@@ -33,7 +33,9 @@ namespace Atividade_28._10___Gestão_de_Hotel
             Console.WriteLine("\n------- Resumo do Pagamento -------");
             Console.ForegroundColor = ConsoleColor.White;
             CalcularTotal();
-            Console.WriteLine("=====================================\n");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("===================================\n");
+            Console.ForegroundColor = ConsoleColor.White;
         }
     }
 }

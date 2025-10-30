@@ -27,16 +27,10 @@ class Program
         // Hospede, Quarto, Dias, Desconto, ValorTotal (será calculado pelo método)
         ReservaVip vip = new ReservaVip(carlos, quartoDuplo, 5, 10, 0);
 
-        Console.ForegroundColor = ConsoleColor.Cyan;
-        Console.WriteLine("\n--- === Reserva Normal === ---");
-        Console.ForegroundColor = ConsoleColor.White;
-        ana.ExibirDetalhes();
-        normal.ExibirDetalhes();
-
-        Console.ForegroundColor = ConsoleColor.Red;
-        Console.WriteLine("\n--- === Reserva VIP === ---");
-        Console.ForegroundColor = ConsoleColor.White;
-        carlos.ExibirDetalhes();
-        vip.ExibirDetalhes();
+        List<Reserva> reservas = new List<Reserva> { normal, vip };
+        foreach (var reserva in reservas)
+        {
+            reserva.ExibirDetalhes();
+        }
     }
 }

@@ -24,7 +24,7 @@ namespace Atividade_28._10___Gestão_de_Hotel
 
         public virtual void ExibirDetalhes()
         {
-            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("\n======= Detalhes da Reserva =======");
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine($"Hóspede: {HospedeReserva.Nome}"
@@ -37,7 +37,9 @@ namespace Atividade_28._10___Gestão_de_Hotel
             Console.WriteLine("\n------- Resumo do Pagamento -------");
             Console.ForegroundColor = ConsoleColor.White;
             CalcularTotal();
-            Console.WriteLine("=================================\n");
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("===================================\n");
+            Console.ForegroundColor = ConsoleColor.White;
         }
     }
 }
