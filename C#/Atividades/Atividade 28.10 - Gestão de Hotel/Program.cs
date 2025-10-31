@@ -28,6 +28,11 @@ class Program
         ReservaVip vip = new ReservaVip(carlos, quartoDuplo, 5, 10, 0);
 
         List<Reserva> reservas = new List<Reserva> { normal, vip };
+        List<Hospede> hospedes = new List<Hospede> { ana, carlos };
+        foreach (var hospede in hospedes)
+        {
+            hospede.ExibirHospede();
+        }
         foreach (var reserva in reservas)
         {
             reserva.ExibirDetalhes();

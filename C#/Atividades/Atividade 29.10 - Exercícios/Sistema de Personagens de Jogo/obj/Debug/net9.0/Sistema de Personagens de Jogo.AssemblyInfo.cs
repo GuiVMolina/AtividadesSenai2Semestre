@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema de Personagens de Jogo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93f838e4aa0891da4e373042119ed630c1ff8913")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a4672327025cc2f38072e30dd135f5ebf7dadd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema de Personagens de Jogo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema de Personagens de Jogo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,7 +17,7 @@ namespace Atividade_28._10___Gestão_de_Hotel
 
         public void ExibirHospede()
         {
-            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine("\n=== Dados do Hóspede ===");
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine($"Nome: {Nome}"
