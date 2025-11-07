@@ -11,16 +11,16 @@ namespace Atividade_04._11___Sistema_Funcionários_MVC.Models
         public string Nome { get; set; } = string.Empty;
 
         [Range(0, 10000)] // Define um intervalo válido para o SalarioBase
-        public decimal SalarioBase { get; set; }
+        public double SalarioBase { get; set; }
 
         // Construtor padrão
         public Funcionario() { }
 
         // Construtor com parâmetros
-        public Funcionario(string nome, decimal salarioBase)
+        public Funcionario(string nomeConstrutor, double salarioBaseConstrutor)
         {
-            Nome = nome;
-            SalarioBase = salarioBase;
+            Nome = nomeConstrutor;
+            SalarioBase = salarioBaseConstrutor;
         }
         
         public abstract double CalcularSalario();

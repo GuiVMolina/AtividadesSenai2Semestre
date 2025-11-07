@@ -1,0 +1,19 @@
+@model Atividade_04._11___Sistema_Funcionários_MVC.Models.Funcionario
+
+<h2>Cadastrar Funcionário</h2>
+
+<form asp-action="Criar">
+    <label>Nome:</label>
+    <input type="text" name="nomeConstrutor" class="form-control"/>
+
+    <label>Salário Base:</label>
+    <input type="number" name="salarioBaseConstrutor" class="form-control" step="0.01"/> @* step = controla casas decimais *@
+
+    <label>Cargo:</label>
+    <select name="cargoConstrutor">
+        <option value="Gerente">Gerente</option>
+        <option value="Vendedor">Vendedor</option>
+    </select>
+
+    <button type="submit" class="btn btn-sucesss">Salvar</button>
+</form>

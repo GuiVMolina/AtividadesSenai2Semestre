@@ -1,3 +1,6 @@
+using Atividade_04._11___Sistema_Funcionários_MVC.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace Atividade_04._11___Sistema_Funcionários_MVC;
 
 public class Program
@@ -8,6 +11,13 @@ public class Program
 
         // Add services to the container.
         builder.Services.AddControllersWithViews();
+
+        builder.Services.AddDbContext<AppDbContext>(options =>
+            options.UseSqlServer(
+                builder.Configuration.GetConnectionString("ConexaoPadrao"),
+                sqlOptions => sqlOptions.EnableRetryOnFailure()
+            )
+        );
 
         var app = builder.Build();
 
@@ -27,7 +37,7 @@ public class Program
         app.MapStaticAssets();
         app.MapControllerRoute(
             name: "default",
-            pattern: "{controller=Home}/{action=Index}/{id?}")
+            pattern: "{controller=Funcionario}/{action=Index}/{id?}")
             .WithStaticAssets();
 
         app.Run();
