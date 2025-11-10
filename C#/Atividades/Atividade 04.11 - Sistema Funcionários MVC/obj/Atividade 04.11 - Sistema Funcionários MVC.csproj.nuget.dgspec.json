@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\46581849820\\Downloads\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC.csproj": {}
+    "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\Atividades\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\46581849820\\Downloads\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC.csproj": {
+    "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\Atividades\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\46581849820\\Downloads\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC.csproj",
+        "projectUniqueName": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\Atividades\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC.csproj",
         "projectName": "Atividade 04.11 - Sistema Funcionários MVC",
-        "projectPath": "C:\\Users\\46581849820\\Downloads\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC.csproj",
+        "projectPath": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\Atividades\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC.csproj",
         "packagesPath": "C:\\Users\\46581849820\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\46581849820\\Downloads\\Atividade 04.11 - Sistema Funcionários MVC\\Atividade 04.11 - Sistema Funcionários MVC\\obj\\",
+        "outputPath": "C:\\Users\\46581849820\\Desktop\\AtividadesSenai2Semestre\\C#\\Atividades\\Atividade 04.11 - Sistema Funcionários MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

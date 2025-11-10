@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Atividade_04._11___Sistema_Funcionários_MVC.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251107121313_CriarBanco")]
+    [Migration("20251110120456_CriarBanco")]
     partial class CriarBanco
     {
         /// <inheritdoc />
