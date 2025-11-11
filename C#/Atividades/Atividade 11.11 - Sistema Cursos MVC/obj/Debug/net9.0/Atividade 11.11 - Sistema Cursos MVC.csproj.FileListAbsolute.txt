@@ -1,0 +1,231 @@
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.csproj.AssemblyReference.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.AssemblyInfoInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.AssemblyInfo.cs
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.csproj.CoreCompileInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.RazorAssemblyInfo.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.RazorAssemblyInfo.cs
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.sourcelink.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\appsettings.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.staticwebassets.runtime.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.staticwebassets.endpoints.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.exe
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.deps.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.runtimeconfig.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Humanizer.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\scopedcss\bundle\Atividade 11.11 - Sistema Cursos MVC.styles.css
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\scopedcss\projectbundle\Atividade 11.11 - Sistema Cursos MVC.bundle.scp.css
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\sacd5917jj-b9sayid5wm.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\sio7tti4jr-61n19gt1b8.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\9y3xg5wz3n-xtxxf3hu2r.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\u0y66m9m50-bqjiyaj88i.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\kl42uxtcue-c2jlpeoesf.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\u5rh6132pm-erw9l3u2r3.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\23rja0esyx-aexeepp0ev.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\w6b9e40th8-d7shbmvgxk.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\zfhp7zcvib-ausgxo2sd3.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\bkt87vy9yl-k8d9w2qqmf.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\nqbnqaw3wf-cosvhxvwiu.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\ggi3ewgi52-ub07r2b239.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\pgvj259ssz-fvhpjtyr6v.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\2kjwgagbbn-b7pk76d08c.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\zgybprlax9-fsbi9cje9m.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\9xyzq8xy2q-rzd6atqjts.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\21iurzjnxo-ee0r1s7dh0.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\vkk2w2iiep-dxx9fxp4il.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\x45j9uo2aa-jd9uben2k1.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\zoin6cqfzc-khv3u5hwcm.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\lv3fkksala-r4e9w2rdcm.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\lcm9w5qr36-lcd1t2u6c8.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\3xp8ldeypp-c2oey78nd0.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\8g86igqgjb-tdbxkamptv.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\2tewaweblk-j5mq2jizvt.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\654pxpqf4j-06098lyss8.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\dflo84mqmk-nvvlpmu67g.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\q7g1v6v5mg-s35ty4nyc5.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\k9dq53fdxj-pj5nd1wqec.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\cg42t1b6wf-46ein0sx1k.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\1acsirykau-v0zj4ognzu.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\lokd3tza64-37tfw0ft22.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\oivr9p69zl-hrwsygsryq.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\x38d5nmf6x-pk9g2wxc8p.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\4e1lzlyrod-ft3s53vfgj.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\asnq7g8pal-6cfz1n2cew.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\reqs9ph9rm-6pdc2jztkx.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\o4yq48c6gr-493y06b0oq.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\qr3ognsr5x-iovd86k7lj.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\ywfqgnizpr-vr1egmr9el.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\ygl4o7u6at-kbrnm935zg.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\08lblqpi8a-jj8uyg4cgr.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\ifvnfv9n5l-y7v9cxd14o.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\uys1o611rv-notf2xhcfb.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\8gu3mh7kkr-h1s4sie4z3.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\8tka4zyqaa-63fj8s7r0e.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\fn5wsx09bj-0j3bgjxly4.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\g2riwwlpi8-47otxtyo56.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\gkj60yznz7-4v8eqarkd7.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\eaoe0csxkr-356vix0kms.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\jaaacnuey7-83jwlth58m.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\97g7eol485-mrlpezrjn3.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\4vmfg0w01e-lzl9nlhx6b.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\sj0go1juzr-ag7o75518u.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\lutd2hnu1x-x0q3zqp4vz.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\jwfzmrs9rn-0i3buxo5is.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\k8v9mf34ug-o1o13a6vjx.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\g23s9yecof-ttgo8qnofa.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\2cwtb986af-2z0ns9nrw6.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\tzbk9qaioh-muycvpuwrr.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\eccpg77r07-87fc7y1x7t.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\as32res9gt-mlv21k5csn.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\zluoito1ay-ayrhp4ulzm.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\compressed\9bsgpp9zbu-ayrhp4ulzm.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividad.299587D4.Up2Date
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\refint\Atividade 11.11 - Sistema Cursos MVC.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\Atividade 11.11 - Sistema Cursos MVC.genruntimeconfig.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 11.11 - Sistema Cursos MVC\obj\Debug\net9.0\ref\Atividade 11.11 - Sistema Cursos MVC.dll

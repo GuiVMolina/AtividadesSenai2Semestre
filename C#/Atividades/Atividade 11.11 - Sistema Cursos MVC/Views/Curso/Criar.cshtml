@@ -1,0 +1,20 @@
+@model Atividade_11._11___Sistema_Cursos_MVC.Models.Curso
+
+<h2>Cadastrar Cursos</h2>
+
+<form asp-action="Criar" method="post">
+    <div class="form-group">
+        <label>Nome:</label>
+        <input type="text" name="nomeConstrutor" class="form-control" />
+
+        <label>Horas:</label>
+        <input type="number" name="horasConstrutor" class="form-control" />
+
+        <label>Tipo de Curso:</label>
+        <select name="tipoCurso" class="form-control">
+            <option value="Tecnico">Técnico</option>
+            <option value="Superior">Superior</option>
+        </select>
+
+        <button type="submit" class="btn btn-success">Salvar</button>
+</form>

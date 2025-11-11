@@ -1,0 +1,22 @@
+@model Atividade_10._11___Sistema_Veiculos_MVC.Models.Veiculo
+
+<h2>Cadastrar Veículos</h2>
+
+<form asp-action="Criar">
+    <label>Modelo:</label>
+    <select name="modeloConstrutor">
+        <option value="Carro">Carro</option>
+        <option value="Moto">Moto</option>
+    </select>
+
+    <label>Nome:</label>
+    <input type="text" name="nomeConstrutor" class="form-control"/>
+
+    <label>Ano:</label>
+    <input type="number" name="anoConstrutor" class="form-control" step="1"/>
+
+    <label>Preço:</label>
+    <input type="number" name="precoConstrutor" class="form-control" step="0.01"/>
+
+    <button type="submit" class="btn btn-sucesss">Salvar</button>
+</form>

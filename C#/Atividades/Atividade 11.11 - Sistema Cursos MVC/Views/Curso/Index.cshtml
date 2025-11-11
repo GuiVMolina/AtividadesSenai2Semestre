@@ -1,0 +1,28 @@
+@model List<Atividade_11._11___Sistema_Cursos_MVC.Models.Curso>
+
+<h2>Cursos</h2>
+
+<a asp-aciton="Criar" class="btn btn-primary">Novo Curso</a>
+
+<table class="table mt-3">
+    <tr>
+        <th>Nome</th>
+        <th>Tipo de Curso</th>
+        <th>Quantidade de Horas</th>
+        <th>Preço Calculado</th>
+        <th>Ações</th>
+    </tr>
+
+    @foreach (var curso in Model)
+    {
+        <tr>
+            <td>@curso.Nome</td>
+            <td>@curso.GetType().Name</td>
+            <td>@curso.Horas</td>
+            <td>R$ @curso.CalcularPreco().ToString("F2")</td>
+            <td>
+                <a asp-action="Detalhes" asp-route-id="@curso.Id" class="btn btn-danger">Excluir</a>
+            </td>
+        </tr>
+    }
+</table>
