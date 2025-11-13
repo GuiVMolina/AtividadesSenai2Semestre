@@ -1,6 +1,7 @@
-using Atividade_11._11___Sistema_Cursos_MVC.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Atividade_11._11___Sistema_Cursos_MVC.Data;
+using Atividade_11._11___Sistema_Cursos_MVC.Models;
 
 namespace Atividade_11._11___Sistema_Cursos_MVC.Controllers
 {

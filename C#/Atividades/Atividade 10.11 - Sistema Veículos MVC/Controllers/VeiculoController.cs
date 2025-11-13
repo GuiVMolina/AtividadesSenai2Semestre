@@ -9,9 +9,9 @@ namespace Atividade_10._11___Sistema_Veiculos_MVC.Controllers
     {
         private readonly AppDbContext _context;
 
-        public VeiculoController(AppDbContext contextConstrutor)
+        public VeiculoController(AppDbContext context)
         {
-            _context = contextConstrutor;
+            _context = context;
         }
         public async Task<IActionResult> Index()
         {

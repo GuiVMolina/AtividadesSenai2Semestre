@@ -1,7 +1,7 @@
 using Atividade_10._11___Sistema_Veiculos_MVC.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace Atividade_04._11___Sistema_Funcionários_MVC;
+namespace Atividade_10._11___Sistema_Veiculos_MVC;
 
 public class Program
 {
