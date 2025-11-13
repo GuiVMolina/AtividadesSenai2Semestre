@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividade 23.10 - Classe Pessoa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+241213b1cb4c8f6246e84507d2c6a783a97ff4a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa07c37a7684dfae978af1b185442788aac326c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividade 23.10 - Classe Pessoa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividade 23.10 - Classe Pessoa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

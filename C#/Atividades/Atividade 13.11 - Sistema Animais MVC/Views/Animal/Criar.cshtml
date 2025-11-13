@@ -1,0 +1,16 @@
+@model Atividade_13._11___Sistema_Animais_MVC.Models.Animal
+
+<h2>Adicionar Animal</h2>
+
+<form asp-action="Criar">
+    <label>Nome:</label>
+    <input type="text" name="nomeConstrutor" class="form-control"/>
+
+    <label>Classe:</label>
+    <select name="classeConstrutor">
+        <option value="Leao">Leao</option>
+        <option value="Elefante">Elefante</option>
+    </select>
+
+    <button type="submit" class="btn btn-sucesss">Salvar</button>
+</form>

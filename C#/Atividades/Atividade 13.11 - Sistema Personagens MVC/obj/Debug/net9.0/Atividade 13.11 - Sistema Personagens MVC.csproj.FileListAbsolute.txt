@@ -1,0 +1,229 @@
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.csproj.AssemblyReference.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.AssemblyInfoInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.AssemblyInfo.cs
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.csproj.CoreCompileInputs.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.RazorAssemblyInfo.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.RazorAssemblyInfo.cs
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.sourcelink.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\appsettings.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.staticwebassets.runtime.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.staticwebassets.endpoints.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.exe
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.deps.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.runtimeconfig.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Humanizer.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\scopedcss\bundle\Atividade 13.11 - Sistema Personagens MVC.styles.css
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\scopedcss\projectbundle\Atividade 13.11 - Sistema Personagens MVC.bundle.scp.css
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\m9ykhq1eyc-b9sayid5wm.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\14iyxnyjs5-61n19gt1b8.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\q1ixnc6y91-xtxxf3hu2r.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\2n8vmetxy1-bqjiyaj88i.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\xh823uus4r-c2jlpeoesf.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\6ke1gq1qwq-erw9l3u2r3.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\zo7bvkc090-aexeepp0ev.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\lc0in1p5bv-d7shbmvgxk.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\u5aqzb5tos-ausgxo2sd3.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\e2to4o48zh-k8d9w2qqmf.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\qsqzgm46wt-cosvhxvwiu.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\qr8uipaecb-ub07r2b239.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\z269u1omw9-fvhpjtyr6v.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\4w8i1h8bl8-b7pk76d08c.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\hgzu2i99e0-fsbi9cje9m.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\triux5vnl3-rzd6atqjts.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\ux0g9xzkju-ee0r1s7dh0.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\x57ltso3y3-dxx9fxp4il.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\vx7r5z9m23-jd9uben2k1.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\qqamqcjp00-khv3u5hwcm.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\arbdaee3mc-r4e9w2rdcm.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\wyah6og8ze-lcd1t2u6c8.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\d0pbzenkox-c2oey78nd0.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\3yfb097opi-tdbxkamptv.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\enw6lmdxs4-j5mq2jizvt.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\gwooqpd8nc-06098lyss8.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\bkg0xwnh4w-nvvlpmu67g.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\pupyt462ft-s35ty4nyc5.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\bp7s04v2pm-pj5nd1wqec.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\qn7ttccdna-46ein0sx1k.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\hps9k4mejf-v0zj4ognzu.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\6ywq8ile06-37tfw0ft22.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\jsdnkvsuo9-hrwsygsryq.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\vgle9lmig1-pk9g2wxc8p.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\6avlgs668w-ft3s53vfgj.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\it91ecuj90-6cfz1n2cew.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\j0gcbrkovt-6pdc2jztkx.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\toizubdhqg-493y06b0oq.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\hdnfezdgqs-iovd86k7lj.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\uc7a03wl5k-vr1egmr9el.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\c84hvpumms-kbrnm935zg.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\23ciyvke3t-jj8uyg4cgr.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\466wpp00jh-y7v9cxd14o.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\37kqitsfon-notf2xhcfb.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\zptlcobcgo-h1s4sie4z3.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\yu8zrxl6ve-63fj8s7r0e.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\zbpf1uapp8-0j3bgjxly4.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\6gxc3m0pdd-47otxtyo56.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\46zzmgerus-4v8eqarkd7.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\9fh8hoqnkd-356vix0kms.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\nb2dg98z5f-83jwlth58m.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\w4kbwmwciz-mrlpezrjn3.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\ak1oh2nsbz-lzl9nlhx6b.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\aji0cho5v8-ag7o75518u.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\odo4bwll08-x0q3zqp4vz.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\qa7iwc24xs-0i3buxo5is.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\6l8xqhzhoq-o1o13a6vjx.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\qk4lrjap4g-ttgo8qnofa.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\kpniql8cdt-2z0ns9nrw6.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\ll6xc0cv7o-muycvpuwrr.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\340r1ilyjt-87fc7y1x7t.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\3ffl6bge0h-mlv21k5csn.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\rekyunu16f-0b0za98hqt.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\compressed\n0y57sjhsc-0b0za98hqt.gz
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividad.5A33E233.Up2Date
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\refint\Atividade 13.11 - Sistema Personagens MVC.dll
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.pdb
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\Atividade 13.11 - Sistema Personagens MVC.genruntimeconfig.cache
+C:\Users\46581849820\Desktop\AtividadesSenai2Semestre\C#\Atividades\Atividade 13.11 - Sistema Personagens MVC\obj\Debug\net9.0\ref\Atividade 13.11 - Sistema Personagens MVC.dll

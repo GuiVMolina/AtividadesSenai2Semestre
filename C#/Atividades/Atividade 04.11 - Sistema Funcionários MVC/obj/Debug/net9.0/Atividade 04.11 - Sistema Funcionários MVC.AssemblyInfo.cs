@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividade 04.11 - Sistema Funcionários MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec96e2e22f7328a9943a99013e6b7de489d8eed2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa07c37a7684dfae978af1b185442788aac326c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividade 04.11 - Sistema Funcionários MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividade 04.11 - Sistema Funcionários MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
