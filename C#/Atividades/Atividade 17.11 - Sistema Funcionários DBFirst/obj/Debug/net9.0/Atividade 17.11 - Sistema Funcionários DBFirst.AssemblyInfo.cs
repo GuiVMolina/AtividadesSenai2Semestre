@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividade 17.11 - Sistema Funcionários DBFirst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2186c8697082aeb7ed6d6f3511d41b01946850b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7356179310c0e06bc55a846058f039eda7a7ccfe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividade 17.11 - Sistema Funcionários DBFirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividade 17.11 - Sistema Funcionários DBFirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
