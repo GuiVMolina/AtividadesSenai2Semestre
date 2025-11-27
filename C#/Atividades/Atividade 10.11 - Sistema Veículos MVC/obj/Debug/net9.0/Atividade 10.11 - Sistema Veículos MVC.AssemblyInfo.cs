@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividade 10.11 - Sistema Veículos MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4fe6a5cbdefc0d3605c11497d5dacaa73e836e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d13c8caa60c9294c95b316fd98788816e918f53")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividade 10.11 - Sistema Veículos MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividade 10.11 - Sistema Veículos MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
